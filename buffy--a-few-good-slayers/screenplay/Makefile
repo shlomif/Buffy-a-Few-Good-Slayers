@@ -5,7 +5,7 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 
 # The-Enemy-English.xhtml \
 
-NAME = Summerschool-at-the-NSA
+NAME = Buffy--a-Few-Good-Slayers
 DOCS_BASE = $(NAME) $(NAME)-hebrew
 
 DOCS_SCREENPLAY_TEXT = $(patsubst %,%.screenplay-text.txt,$(DOCS_BASE))
