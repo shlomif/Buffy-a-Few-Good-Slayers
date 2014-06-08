@@ -30,5 +30,9 @@ is working as teachers, teaching next generations of budding slayers,
 witches/wizards, and watchers, making Sunnydale the Mecca of the slaying
 world.
 
+L<https://en.wikipedia.org/wiki/Cordelia_Chase> moves out of Sunnydale, becomes
+a scholar (Ph.D. + Professor), marries, has children, and mostly stays out of
+the way of slaying. She remains friends with the gang and comes to visit
+sometimes.
 
 =cut
