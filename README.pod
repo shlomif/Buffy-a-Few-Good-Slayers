@@ -1,16 +1,11 @@
 =encoding utf8
 
-=head1 Summerschool at the NSA
+=head1 Buffy - a Few Good Slayers
 
 =head2 About
 
-This repository contains the sources for I<Summerschool at the NSA>,
-an original screenplay by Shlomi Fish (L<http://www.shlomifish.org/>):
-“The Hollywood actresses Sarah Michelle Gellar (of Buffy fame) and
-Summer Glau (of L<http://xkcd.com/> notability) conspire to
-kick the ass of the NSA (= the United States government’s
-National Security Agency) by using special warfare that is completely
-non-violent.”
+This repository contains the sources for I<Buffy - a Few Good Slayers>,
+a Buffy fanfic screenplay by Shlomi Fish (L<http://www.shlomifish.org/>).
 
 =head2 Links
 
@@ -18,18 +13,19 @@ non-violent.”
 
 =item * Homepage
 
-L<http://www.shlomifish.org/humour/Summerschool-at-the-NSA/>
+L<http://www.shlomifish.org/humour/Buffy-a-Few-Good-Slayers/>
 
 =back
 
 =head2 Building the Screenplay
 
-Go to C<./summerschool-at-the-nsa/screenplay/> and type C<make> .
+Go to C<./buffy--a-few-good-slayers/screenplay/> and type C<make> .
 
 =head2 Ideas document / plot summary
 
-The file C<./summerschool-at-the-nsa/ideas/ideas.txt> contains some ideas to
-put into the story.
+The file C<./buffy--a-few-good-slayers/ideas/ideas.pod> contains some ideas and
+planning to put into the story. One can render it into XHTML by typing
+C<make> .
 
 =cut
 
