@@ -1,5 +1,24 @@
 =encoding utf8
 
-=head1
+=head1 Buffy - a Few Good Slayers
+
+=head2 About
+
+I<Buffy: a Few Good Slayers> is a new piece of Buffy fanfiction set in a forked version of the Buffy universe, starting from the end of the third season of Buffy, while taking place many years later in 2014/2015 Sunnydale. The idea and concept were created by L<Shlomi Fish,http://www.shlomifish.org/>.
+
+=head2 What happened from 2000/2001
+
+Faith turned out to have been a good slayer after all, and prevented the mayor
+from ascending properly in the last minute. She joins forces with Buffy and the
+Scooby gang, as an equal co-slayer.
+
+Faith starts dating Xander, and they end up falling in love. Xander grows more
+confident, and after training and encouragement from Buffy and Faith becomes
+the world's first qualified '''male''' slayer, paving the road for other male
+slayers.
+
+Faith and Xander marry after college, and have children. Buffy is able to cure
+Angel out of his vampiredom, and he becomes a slayer, marries Buffy and they
+have children.
 
 =cut
