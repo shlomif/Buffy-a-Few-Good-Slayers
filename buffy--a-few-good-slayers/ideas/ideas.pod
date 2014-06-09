@@ -4,7 +4,10 @@
 
 =head2 About
 
-I<Buffy: a Few Good Slayers> is a new piece of Buffy fanfiction set in a forked version of the Buffy universe, starting from the end of the third season of Buffy, while taking place many years later in 2014/2015 Sunnydale. The idea and concept were created by L<Shlomi Fish,http://www.shlomifish.org/>.
+I<Buffy: a Few Good Slayers> is a new piece of Buffy fanfiction set in a forked
+version of the Buffy universe, starting from the end of the third season of
+Buffy, while taking place many years later in 2014/2015 Sunnydale. The idea and
+concept were created by L<Shlomi Fish|http://www.shlomifish.org/>.
 
 =head2 What happened from 2000/2001
 
@@ -34,5 +37,7 @@ L<https://en.wikipedia.org/wiki/Cordelia_Chase> moves out of Sunnydale, becomes
 a scholar (Ph.D. + Professor), marries, has children, and mostly stays out of
 the way of slaying. She remains friends with the gang and comes to visit
 sometimes.
+
+=head2 Theme
 
 =cut
