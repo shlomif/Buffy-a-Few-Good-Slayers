@@ -43,4 +43,32 @@ sometimes.
 
 =head2 Theme
 
+The show focuses on the following:
+
+=head3 The Scooby Gang
+
+At their early-to-mid-to-late-30s, Buffy, Faith, Xander, Willow, etc. have to
+juggle between various priorities:
+
+=over 4
+
+=item * Their responsibilities as parents.
+
+=item * Their responsibilities as spouses.
+
+=item * Their responsibilities as teachers.
+
+=item * The increasing culture gap between them and their students.
+
+=item * Making sure that Sunnydale, and the world at large, remain safe of demonic activity and oblivious to it.
+
+=item * Their mid-life crisis and their nostalgia to the 90s when they grew
+up.
+
+=back
+
+=head3 The High School Seniors
+
+=head3 The High School Freshmen
+
 =cut
