@@ -62,8 +62,7 @@ juggle between various priorities:
 
 =item * Making sure that Sunnydale, and the world at large, remain safe of demonic activity and oblivious to it.
 
-=item * Their mid-life crisis and their nostalgia to the 90s when they grew
-up.
+=item * Their mid-life crisis and their nostalgia to the 90s when they grew up.
 
 =back
 
