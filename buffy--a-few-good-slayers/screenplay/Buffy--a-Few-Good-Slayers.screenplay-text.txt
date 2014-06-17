@@ -135,6 +135,40 @@ kicking vampires’ ass.
 
 </s> <!-- / orientation_day__team -->
 
+<s id="orientation_day__giles_speech" title="Giles’ Speech">
+
+[Giles is testing the microphone.]
+
+Giles: Mary had a little lamb, little lamb… OK, nice.
+
++++: all 10th grade students pay attention here. This is Prof. Rupert
+Giles and I’m the principal of Sunnydale High School, which as you know
+specialises in training slayers, watchers and warlocks-slash-witches to help
+battle the world infestation of demons.
+
++++: Let's start with a brief history of this schoo:
+
++++: Buffy Anne Summers and her mother moved to Sunnydale at 1997 and
+she quickly found herself fighting Demons again when being in the 10th grade.
+Buffy gathered a small group of friends, who helped her fighting demons
+called the Scooby Gang.
+
++++: in the Scooby Gang’s senior year, a young (three years the Scooby Gang’s
+junior) and insurgent slayer called
+<a href="http://buffy.wikia.com/wiki/Faith_Lehane">Faith Lehane</a> comes
+to Sunnydale, having been an orphan most of her life, and growing on the
+streets. At first, it seems that she has gone to “the dark side of the force”
+to quote Buffy, but she ends up preventing the mayor’s ascension in the
+last minute and saving the day.
+
++++: Faith is adopted by a local couple, starts studying as a 10th grader in
+the high school, and joins forces with Buffy as a co-slayer. She maintains
+a relationship with Mr.
+<a href="http://buffy.wikia.com/wiki/Alexander_Harris">Alexander “Xander” Harris</a> that grows from being primarily sexual, to friendship to deep love, and
+they remain faithful to each other (pun not intended) to this day.
+
+</s>
+
 </s>
 
 <!-- / summerschool-at-the-NSA (Main) -->
