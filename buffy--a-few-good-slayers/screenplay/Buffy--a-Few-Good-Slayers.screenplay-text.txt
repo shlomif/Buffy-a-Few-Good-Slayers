@@ -39,6 +39,8 @@ Attribution Share-Alike 3.0 Unported Licence (CC-by-sa)</a>
 
 <s id="orientation_day" title="Orientation Day">
 
+<s id="orientation_day__team" title="Orientation Day - Becoming a team">
+
 [Text on the screen: Sunnydale High School Orientation Day ; Sunnydale ; California
 
 First few chords of <a href="https://www.youtube.com/watch?v=M11SvDtPBhA">Miley
@@ -130,6 +132,8 @@ Becky: Listen, for your information, I did some martial arts over in Israel,
 when I visited it this summer, and I was told I was pretty good at it, but
 more importantly - there’s more to being a good slayer than senselessly
 kicking vampires’ ass.
+
+</s> <!-- / orientation_day__team -->
 
 </s>
 
