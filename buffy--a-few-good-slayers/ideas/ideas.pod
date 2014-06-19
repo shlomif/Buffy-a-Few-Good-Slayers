@@ -68,7 +68,7 @@ juggle between various priorities:
 
 =head3 The High School Seniors
 
-=head3 The High School Freshmen
+=head3 The High School Sophomores
 
 =head4 Rebecca “Becky” Shepherd
 
@@ -85,5 +85,45 @@ Mel Brooks also did some stuff on it.
 She's not really a JAP.
 
 And certainly isn't when the film ends and she saves the day several times.
+
+=head2 NOTES
+
+* Buffy, Faith, and Willow discuss getting a dog.
+** "I'm a cat person".
+** "Ceiling cat is watching your dog pee"
+** "My friend got a dog and guys keep hitting on/approaching her".
+*** "A slut?"
+*** More like polyamorous.
+*** Experimenting.
+*** She's only 25.
+** "her".
+*** "A slut?"
+*** More like polyamorous.
+*** Experimenting.
+*** She's only 25.
+** Glad we also know many single people and not structure our whole lives
+around our children.
+
+* Buffy factoids - L<http://www.shlomifish.org/humour/bits/facts/Buffy/>
+** Not reall true.
+** Buffy: "I fought against Chuck Norris shortly after high school graduation and lost."
+** Buffy is looking for an old book about cooking in the library.
+** Becky finds the recipe using her Net-wisdom.
+** Buffy: "Wow! You have so much potential! I think you'll make a wonderful slayer."
+
+* Cliff fought against Chuck Norris recently and won in two out of three rounds.
+** Chuck Norris told him "You're not a loser if you keep fighting and losing manybattles. You're a bigger loser if you stop." 
+** He also fought against Summer Glau once and won all rounds.
+*** "She's pretty good, but loses many fights."
+
+* Becky enjoys Cliff calling her "brony girl".
+
+* Chankey saying he read
+L<https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea> and then knew better than to not seize opportunities because he's an Indian or whatever.
+** He's a chick magnet at Sunnydale High School and enjoys it.
+** What is with girls and Indian men?
+** Becky saying a big and unathletic-looking Jewish divorced woman in Israel
+told her many Jewish married men offered to have an affair with her.
+** Even some men can see beyond one's unaesthetical look.
 
 =cut
