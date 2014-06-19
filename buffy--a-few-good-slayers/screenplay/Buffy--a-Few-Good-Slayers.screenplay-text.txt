@@ -4,7 +4,7 @@
 
 [Buffy: a Few Good Slayers
 
-Tagline: To be decided.
+Tagline: I learned more from my students than I have from my teachers.
 
 Note: This screenplay was written by
 <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
@@ -68,7 +68,7 @@ Becky: sure, I'd love to be team with you. Let's register.
 
 [She uses her smartphone to register.]
 
-Cliff: OK, done.
+Becky: OK, done.
 
 Chankey: [in an English accent] Smashing!
 
@@ -96,7 +96,7 @@ Chankey: Yes.
 
 Becky: Well, I grew up and lived in
 <a href="https://en.wikipedia.org/wiki/Charlotte%2C_North_Carolina">Charlotte,
-North Carolina</a> (great town!). My mother’s Jewish and I’m kind of spoiled
+North Carolina</a> (great town!). My mother’s Jewish and I’m kind of a spoiled
 <a href="https://duckduckgo.com/?q=jewish%20american%20princess">Jewish
 American Princess</a>.
 
@@ -146,15 +146,15 @@ Giles and I’m the principal of Sunnydale High School, which as you know
 specialises in training slayers, watchers and warlocks-slash-witches to help
 battle the world infestation of demons.
 
-+++: Let's start with a brief history of this schoo:
++++: Let's start with a brief history of this school:
 
 +++: Buffy Anne Summers and her mother moved to Sunnydale at 1997 and
 she quickly found herself fighting Demons again when being in the 10th grade.
 Buffy gathered a small group of friends, who helped her fighting demons
 called the Scooby Gang.
 
-+++: in the Scooby Gang’s senior year, a young (three years the Scooby Gang’s
-junior) and insurgent slayer called
++++: During the Scooby Gang’s senior year, a young (three years the Scooby
+Gang’s junior) and insurgent slayer called
 <a href="http://buffy.wikia.com/wiki/Faith_Lehane">Faith Lehane</a> comes
 to Sunnydale, having been an orphan most of her life, and growing on the
 streets. At first, it seems that she has gone to “the dark side of the force”
@@ -164,12 +164,49 @@ last minute and saving the day.
 +++: Faith is adopted by a local couple, starts studying as a 10th grader in
 the high school, and joins forces with Buffy as a co-slayer. She maintains
 a relationship with Mr.
-<a href="http://buffy.wikia.com/wiki/Alexander_Harris">Alexander “Xander” Harris</a> that grows from being primarily sexual, to friendship to deep love, and
-they remain faithful to each other (pun not intended) to this very day.
+<a href="http://buffy.wikia.com/wiki/Alexander_Harris">Alexander “Xander” Harris</a> that grows from being primarily sexual, to friendship, to deep love, and
+they remain faithful to each other to this very day. Pun not intended.
 
 +++: With the encouragement of Buffy and Faith, Xander becomes more confident,
-and eventually makes history by becoming the world’s first male slayer, paving
-the road to future male slayers.
+and eventually makes history by becoming the world’s first known male slayer,
+paving the road to future male slayers.
+
++++: Meanwhile, Buffy and her long term friend and loved one,
+<a href="http://buffy.wikia.com/wiki/Angel">Angel</a> are able to convince
+the Gypsies who restored his soul to use an even more powerful spell to convert
+him back to a human. Angel becomes a slayer as well, and he and Buffy get
+married and have children.
+
++++: In a similar fashion,
+<a href="http://buffy.wikia.com/wiki/Willow_Rosenberg">Willow Rosenberg</a> (
+now Dr. Willow Rosenberg, Ph.D) is able to cure her boyfriend
+<a href="http://buffy.wikia.com/wiki/Daniel_Osbourne">Daniel “Oz” Osbourne</a>)
+out of his werewolfness, he becomes a fellow warlock as well, and the two
+marry and have some children. Dr. Rosenberg and Dr. Osbourne are both among
+the most powerful known wizards in the world today, so you should stay on
+their good side.
+
++++: Not that they abuse their magic. At least not often.
+
++++: I myself have married Buffy’s mother, who isn’t a qualified demon fighter,
+but nevertheless extremely helpful and instrumental to the Scooby Gang.
+
++++: In the meanwhile,
+<a href="http://buffy.wikia.com/wiki/Principal_Snyder">Principal Snyder</a>
+retired, passed the baton to me, and decided to run for mayor of Sunnydale. He
+ended up losing the election at first with a large margin, but didn't give up
+and instead offered the newly elected mayor to help him as much as he could.
+Snyder proved to be extremely helpful and insightful, and in the second term,
+the previous Mayor, didn’t run again, and instead supported Mr. Snyder election,
+who won it by a large margin, and is still Sunnydale’s mayor, and a good friend
+and supporter of the Scooby gang's new role as educators and protectors of
+Sunnydale, and the world at large.
+
++++: What all this shows is like this fine lady would say: [showing
+<a href="http://mlp.wikia.com/wiki/Princess_Celestia">Princess Celestia</a> on
+the screen and some laughter and enthusiastic claps from the audience]
+: “The real magic is in friendship”.
+
 
 </s>
 
