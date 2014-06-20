@@ -27,5 +27,10 @@ The file C<./buffy--a-few-good-slayers/ideas/ideas.pod> contains some ideas and
 planning to put into the story. One can render it into XHTML by typing
 C<make> .
 
+=head2 In Memory
+
+See the file C<In-Memory-Of-Rebecca-Mayer.txt> for a dedication for the memory
+of Rebecca Mayer.
+
 =cut
 

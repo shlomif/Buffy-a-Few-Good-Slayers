@@ -1,0 +1,104 @@
+The name of the protagonist of the screenplay Buffy: a Few Good Slayers,
+Rebecca “Becky” Shepherd, was inspired by several Rebeccas I’ve met and knew
+including my late grandmother on my father’s side (the daughter of
+https://he.wikipedia.org/wiki/%D7%A4%D7%9C%D7%A7_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F ).
+
+However, 11 days after I started working on the screenplay, I heard about the
+death of a different Rebecca, Rebacca Mayer, the daughter of
+https://en.wikipedia.org/wiki/Eric_A._Meyer , who died of cancer while being
+only 6 years old and on her birthday. I did not know her, but heard about her
+father and read one of his books and I admire him.
+
+As a result, I'm keeping this as a dedication to her memory.
+
+====================================
+
+From: Shlomi Fish <shlomif@shlomifish.org>
+To: "[wd] List Mom"
+Cc: list@webdesign-l.com
+Subject: Re: [WD]: Rebecca Meyer
+Date: Thu, 19 Jun 2014 20:52:21 +0300
+
+Hi List Mom and all,
+
+On Thu, 12 Jun 2014 17:31:29 +0000
+"[wd] List Mom" <schampeo@hesketh.com> wrote:
+
+>
+> Sorry this is offtopic, but bear with me.
+>
+> As some of you have no doubt heard, Eric Meyer lost his six year old
+> daughter to cancer (on her birthday, Sunday) and today she is being
+> interred. There is a campaign, spearheaded by Matt Robin, to have the
+> twitter hashtag #663399Becca trend today. Jeffrey Zeldman has written
+> up a short bit here:
+>
+>  http://www.zeldman.com/2014/06/10/the-color-purple/
+>
+
+I'm sorry to hear that. I'm not going to tweet about it, but I'll write a short
+dedication about her in my next blog/Google+/reddit/etc. post about this
+screenplay of mine: http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/
+- it has a lot of computer/software dev/open source/open content/Web 2.0/WWW/New
+Age pluralism/etc./etc. stuff and the chief protagonist is called Rebecca
+"Becky" Shepherd and she's going to be a really awesome heroine/"hacker"[2] (in
+my own zany way). Her name was inspired by that of several Rivkahs/Rebeccas I
+know, including that of my late grandmother, and if I ever have a daughter I'd
+like to call her Rebecca after her[1].
+
+Maybe I'll also put a small dedication to the memory of Rebecca Mayer somewhere
+in the GitHub repository of the screenplay. Being a geek, I use git and GitHub
+for my screenplays, and they are also licensed under one of the Creative Commons
+licences.
+
+Sorry if I've gone off tangent, and my deep condolences to Rebecca Mayer’s
+family. I still feel a little sad now - I really do.
+
+Regards,
+
+	Shlomi Fish
+
+[1] - Jews of many Jewries tend to call their children after deceased
+relatives. So do many Asian Indians, and both Indians and those Jews will take
+offence if you call a newborn after a living older relative, because it
+indicates you wish them to be dead.
+
+I did meet a woman (and a mother) who was Jewish on one of my walks in the
+neighbourhood who was of Argentinian origin and was christened after her
+grandmother who was still alive when I talked to her, and she said it's not a
+big issue for them. I guess you learn something new every day.
+
+[2] - see http://www.paulgraham.com/gba.html for what "hacker" is all about as
+well as other Paul Graham essays from that era like
+http://www.paulgraham.com/opensource.html and also:
+
+https://plus.google.com/+ShlomiFish/posts/dDJwvtcGE5N
+
+> Most, if not all, of you have benefited from Eric's work on CSS over
+> the years. I encourage you to donate to the foundations specified by
+> Eric and his family:
+>
+>  http://meyerweb.com/eric/thoughts/2014/06/09/in-memoriam-2/
+>
+> Many have "purpleized" their twitter icons in tribute to her memory. We
+> lost our nearly 21-year old cat, Mara, to renal failure a couple of
+> years ago, followed within a few weeks by our 18-year old cat, Nokomis,
+> also to cancer. We were utterly devastated. I can't even imagine what
+> it's like to lose a child, to say nothing of a six year old daughter.
+>
+> So, if you're inclined, chip in. It would mean the world to Eric and
+> Kat, and would help demonstrate the goodwill of the community he helped
+> foster. (Eric was an early subscriber here, before going off to found
+> css-discuss, and we collaborated on several projects together). I have
+> nothing bu the most profound respect for him, and my heart goes out to
+> him on this sad day.
+>
+> Sadly,
+> Steve
+>
+
+
+
+--
+-----------------------------------------------------------------
+Shlomi Fish       http://www.shlomifish.org/
