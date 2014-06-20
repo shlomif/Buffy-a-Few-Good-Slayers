@@ -4,7 +4,7 @@ including my late grandmother on my father’s side (the daughter of
 https://he.wikipedia.org/wiki/%D7%A4%D7%9C%D7%A7_%D7%94%D7%9C%D7%A4%D7%A8%D7%99%D7%9F ).
 
 However, 11 days after I started working on the screenplay, I heard about the
-death of a different Rebecca, Rebacca Mayer, the daughter of
+death of a different Rebecca, Rebacca Meyer, the daughter of
 https://en.wikipedia.org/wiki/Eric_A._Meyer , who died of cancer while being
 only 6 years old and on her birthday. I did not know her, but heard about her
 father and read one of his books and I admire him.
@@ -46,12 +46,12 @@ my own zany way). Her name was inspired by that of several Rivkahs/Rebeccas I
 know, including that of my late grandmother, and if I ever have a daughter I'd
 like to call her Rebecca after her[1].
 
-Maybe I'll also put a small dedication to the memory of Rebecca Mayer somewhere
+Maybe I'll also put a small dedication to the memory of Rebecca Meyer somewhere
 in the GitHub repository of the screenplay. Being a geek, I use git and GitHub
 for my screenplays, and they are also licensed under one of the Creative Commons
 licences.
 
-Sorry if I've gone off tangent, and my deep condolences to Rebecca Mayer’s
+Sorry if I've gone off tangent, and my deep condolences to Rebecca Meyer’s
 family. I still feel a little sad now - I really do.
 
 Regards,
