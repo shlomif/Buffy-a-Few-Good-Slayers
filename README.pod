@@ -29,8 +29,8 @@ C<make> .
 
 =head2 In Memory
 
-See the file C<In-Memory-Of-Rebecca-Mayer.txt> for a dedication for the memory
-of Rebecca Mayer.
+See the file C<In-Memory-Of-Rebecca-Meyer.txt> for a dedication for the memory
+of Rebecca Meyer.
 
 =cut
 
