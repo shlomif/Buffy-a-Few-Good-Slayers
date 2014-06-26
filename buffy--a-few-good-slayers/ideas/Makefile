@@ -1,7 +1,7 @@
 all: ideas.html ideas.xhtml
 
 ideas.xhtml: ideas.pod
-	perl -E 'use Pod::PseudoPod::HTML; my $$p = Pod::PseudoPod::HTML->new; $$p->parse_file(q#$<#)' | perl -lane 'print if /\S/' > $@
+	perl -C -E 'use Pod::PseudoPod::HTML; my $$p = Pod::PseudoPod::HTML->new; $$p->parse_file(q#$<#)' | perl -lane 'print if /\S/' > $@
 
 ideas.html: ideas.xhtml
 	cp -f $< $@
