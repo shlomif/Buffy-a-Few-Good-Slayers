@@ -253,7 +253,40 @@ come to guide you shortly.
 
 [Claps and cheers from the audience.]
 
+<!-- / orientation_day__giles_speech -->
+
 </s>
+
+<!-- / orientation_day -->
+
+</s>
+
+<s id="buffy_faith_and_willow_at_the_restaurant" title="Buffy, Faith, and Willow, at the Restaurant.">
+
+[Buffy, Faith, and Willow, are sitting at a restaurant outside, eating and
+chatting.]
+
+Willow: So, do you think I should get a dog?
+
+Buffy: Oh, my friend, Rachel, that software developer chick who moved her,
+says that ever since she bought a dog, she made so many friends and lots of guy
+showed interest in her, and she’s been telling me about her exploits with them
+endlessly.
+
+Willow: So she has become a slut? So cool!
+
+Faith: Hey! “Slut” is such a 90s term. The new name for that is “polyamorous”!
+
+Buffy: Which just rolls off the tongue.
+
++++: Heh, to be frank, I don’t think she, ahem…
+
+Faith: Reaches fourth base?
+
+Buffy: Exactly! With most of them.
+
+Willow: Maybe she still haven’t found the right man. You know, someone they’ll
+both be almost worthy of each other.
 
 </s>
 
