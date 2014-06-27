@@ -13,7 +13,7 @@ a Buffy fanfic screenplay by Shlomi Fish (L<http://www.shlomifish.org/>).
 
 =item * Homepage
 
-L<http://www.shlomifish.org/humour/Buffy-a-Few-Good-Slayers/>
+L<http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/>
 
 =back
 
