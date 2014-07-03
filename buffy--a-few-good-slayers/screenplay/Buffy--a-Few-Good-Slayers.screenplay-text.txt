@@ -300,7 +300,7 @@ Becky: Why, thank you! I’m going to join them.
 
 </s>
 
-<s id="becky_in_the_library__captain_nemo" title="Captain Nemo">
+<s id="becky_in_the_library__chit_chat" title="Chit Chat">
 
 Becky: Hi Chankey, Cliff.
 
