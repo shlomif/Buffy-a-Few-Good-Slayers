@@ -264,6 +264,70 @@ come to guide you shortly.
 
 </s>
 
+<s id="becky_in_the_library" title="Becky In The Library">
+
+<s id="becky_in_the_library__the_librarian" title="The Librarian">
+
+[Becky enters the new library of Sunnydale High School. It’s large. The
+song <a href="https://www.youtube.com/watch?v=4G6QDNC4jPs">“Everytime We Touch”
+by Cascada</a> is playing in the background and people are making other light
+noises. Becky approaches the librarian, Ms. Chu, who has Oriental looks.]
+
+Becky: Hi, I would have expected a library to be more quiet than that.
+
+Ms. Chu: Yes, but we realised that such sterility is not good for creativity
+or for one’s self-esteem. This song actually was a good catalyst for rethinking
+our strategy.
+
++++: Anyway, my name is Diane Chu, and I’m the librarian here. I’m also a
+qualified watcher.
+
+Becky: Nice to meet you: I am Becky Shepherd.
+
+Ms. Chu: Nice to meet you. [They shake hands] I think your two team mates are
+over there.
+
+Becky: Why, thank you! I’m going to join them.
+
+<!-- / becky_in_the_library__the_librarian -->
+
+</s>
+
+<s id="becky_in_the_library__captain_nemo" title="Captain Nemo">
+
+Becky: Hi Chankey, Cliff.
+
+Chankey: Hello, Becky. You were right, I have made many friends.
+
+[Samantha, who is a good looking white girl, approaches Chankey.]
+
+Samantha: Oh, Chankey, there you are! I had a great time tonight. [She
+kisses him on the cheek.] We’ll schedule another date using instant
+messaging, K? See you!
+
+[She leaves.]
+
+Becky: ooooh... watch it, Mr. Watcher!
+
+[Cliff hits him with his fist.]
+
+Chankey: Heh, tell me about it. What is it about women and Indian men.
+
+Cliff: What is it about women and all exotic men? Or non-exotic ones! girls
+here hit on me like crazy, and I’ve had lots of dates.
+
+Becky: Men do that too, by the way. Like… in Israel, lots of men asked my
+female friends and I - where some of them were kinda big, not athletic looking
+and not very beautiful on dates, or hit on us in the typical Israeli “smooth”
+way.
+
+<!-- / becky_in_the_library__captain_nemo -->
+
+</s>
+
+<!-- / becky_in_the_library -->
+</s>
+
 <s id="buffy_faith_and_willow_at_the_restaurant" title="Buffy, Faith, and Willow, at the Restaurant.">
 
 [Buffy, Faith, and Willow, are sitting at a restaurant outside, eating and
