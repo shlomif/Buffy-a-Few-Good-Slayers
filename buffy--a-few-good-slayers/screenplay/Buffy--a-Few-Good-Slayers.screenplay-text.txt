@@ -469,6 +469,33 @@ Daniel: Sure, that would be nice.
 
 </s>
 
+<s id="buffy_faith_and_willow_restaurant_talk_with_daniel" title="Buffy, Faith, Willow, at the Restaurant with Daniel">
+
+Daniel: You know, there’s this piece of information that I wish I could be
+made to forget, but cannot.
+
+Willow: Really, which one?
+
+Daniel: I saw a web news item the other day about
+<a href="http://en.wikipedia.org/wiki/Emma_Watson">Emma Watson</a> having
+dropped her smartphone into her soup, and I don’t understand what the big deal
+is, but I cannot forget it.
+
++++: And I really love her.
+
+Faith: Well, the thing is people think that since she could handle a wand
+in the Harry Potter films with 100% accuracy, then there’s no way she could
+be clumsy. But even us slayers can be clumsy sometimes. We’re only human.
+
+Willow: And… real-life witches like me never used a wand.
+
+Daniel: Heh, I understand now. [Sarcastically] Poor Emma, your smartphone
+got the soup treatment. Did it survive? How can you possibly sleep at night?!!
+
+[Buffy, Faith and Willow burst out laughing.]
+
+</s>
+
 <s id="talk_with_rindolf_on_freenode" title="Talk with “rindolf” on IRC.">
 
 [Becky, Xander, Cliff, and Chankey are all sitting next to their own
