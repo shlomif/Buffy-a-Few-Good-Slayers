@@ -499,8 +499,8 @@ got the soup treatment. Did it survive? How can you possibly sleep at night?!!
 <s id="talk_with_rindolf_on_freenode" title="Talk with “rindolf” on IRC.">
 
 [Becky, Xander, Cliff, and Chankey are all sitting next to their own
-computers talking on Freenode with “rindolf” (= Shlomi Fish) in a dedicated
-channel called “#rindolf2”]
+computers talking on Freenode with “rindolf” (= Shlomi Fish) in a
+channel called “#sunnydale-slayers”]
 
 Becky: [on IRC] rindolf: thanks for agreeing to meet us here, I’m a big fan of a
 lot of the stuff on your homepage and elsewhere, but it seems we have a
