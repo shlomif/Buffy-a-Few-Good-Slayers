@@ -369,7 +369,7 @@ with Yeshiva pupils.
 
 Cliff: That’s great, Brony girl.
 
-Chankey: Cliff, her name is Becky.
+Chankey: Cliff, her name is “Becky”.
 
 Becky: That’s quite alright. I like being called “Brony girl”. It makes me
 feel special.
@@ -412,6 +412,25 @@ Cliff: I’m a freaking witch! Anyway, I won all three rounds and she told me
 it was a good fight.
 
 <!-- / becky_in_the_library__chit_chat -->
+
+</s>
+
+<s id="becky_in_the_library__with_buffy" title="With Buffy">
+
+Becky: of course, everyone knows that Buffy is better than Chuck. He’s
+been secretly fighting against her, and so far lost every battle with her.
+
+Cliff: Yeah, and her gaze can turn Medusa into stone!
+
+Chankey: Buffy Summers is not afraid of demons. Demons are afraid of her, and
+for a very good reason.
+
+Buffy’s voice: Buffy Summers is always there when people are spreading
+incorrect hyperboles about her.
+
+Cliff: oh, hello Ms. Summers.
+
+<!-- / becky_in_the_library__with_buffy -->
 
 </s>
 
