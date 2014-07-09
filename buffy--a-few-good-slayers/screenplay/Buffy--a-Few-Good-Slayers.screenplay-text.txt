@@ -267,6 +267,27 @@ will come to guide you shortly.
 
 </s>
 
+<s id="orientation_day__the_seniors" title="The 12th grade mentors.">
+
+[The 12th grade mentors - Roger (Slayer), Abigail (Witch), and Ronnie (Watcher)
+arrive.
+]
+
+Roger: what's up, losers? We’ll be your mentors for your first year here in
+Sunnydale High. I’m Roger and I’m a slayer.
+
+Abigail: I’m Abigail and I’m a witch.
+
+Ronnie: Ronnie, watcher.
+
+Becky: Nice to meet you three, I’m Becky.
+
+[They all shake hands.]
+
+
+
+</s>
+
 <!-- / orientation_day -->
 
 </s>
