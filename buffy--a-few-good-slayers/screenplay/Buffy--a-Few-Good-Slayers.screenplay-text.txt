@@ -435,6 +435,7 @@ Cliff: oh, hello Ms. Summers.
 </s>
 
 <!-- / becky_in_the_library -->
+
 </s>
 
 <s id="buffy_faith_and_willow_at_the_restaurant" title="Buffy, Faith, and Willow, at the Restaurant.">
@@ -563,6 +564,31 @@ I am a slayer trainee.
 
 
 <!-- / talk_with_rindolf_on_freenode -->
+
+</s>
+
+<s id="summoning_the_benevolent_spirit" title="Summoning the benevolent spirit">
+
+[Giles, Buffy, Faith, Willow, etc. are standing in a row.]
+
+Giles: [Reciting the summoning spell.] FILL IN.
+
+[A gateway opens and Sarah Michelle Gellar (“SMG”) wearing a T-shirt and
+shorts steps through.]
+
+Giles, Willow: Buffy?
+
+SMG: Nah! I’m Sarah Michelle Gellar. I’m the actress who played her.
+
+Buffy: My kindred… spirit! [She faints into Xander’s arms.]
+
+SMG: OK, we have no time to lose. [Presses something on her smartphone.]
+General, your men can come now. And bring a doctor for Buffy. She fainted.
+
+[After a short while, there are many noises in the distance of U.S. Army
+vehicles, soldiers, and helicopters, with muffled cries of “Hail Buffy!”.]
+
+<!-- / summoning_the_benevolent_spirit -->
 
 </s>
 
