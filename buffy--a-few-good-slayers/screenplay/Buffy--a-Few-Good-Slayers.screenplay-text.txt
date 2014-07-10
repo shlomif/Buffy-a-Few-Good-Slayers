@@ -430,6 +430,20 @@ untrue hyperboles about her.
 
 Cliff: oh, hello Ms. Summers.
 
+[Buffy approaches them from a different aisle in the library.]
+
+Buffy: Hello, kids.
+
+Cliff: By the way, what is your post-marriage name?
+
+Buffy: It’s “Summers”. Angel and I are both called that. He didn’t find his
+original family name usable in this day and age, so he adopted mine. His
+original family name was very aristocratic and he is actually a direct male
+descendent of
+<a href="https://en.wikipedia.org/wiki/Charlemagne">Charlemagne</a>.
+
+Becky: Ooooh… so you are now Milady de Summers? Awesome!
+
 <!-- / becky_in_the_library__with_buffy -->
 
 </s>
@@ -543,8 +557,8 @@ got the soup treatment. Did it survive? How can you possibly sleep at night?!!
 computers talking on Freenode with “rindolf” (= Shlomi Fish) in a
 channel called “#sunnydale-slayers”]
 
-Becky: [on IRC] rindolf: thanks for agreeing to meet us here, I’m a big fan of a
-lot of the stuff on your homepage and elsewhere, but it seems we have a
+Becky: [on IRC] rindolf: thanks for agreeing to meet us here, I’m a big fan of
+a lot of the stuff on your homepage and elsewhere, but it seems we have a
 crisis on our hand, and we need to consult you.
 
 +++: First of all, your stories are fictional, right?
@@ -561,6 +575,10 @@ Becky: OK, there’s something we need to admit: The show Sarah the Vampire
 Slayer, actually has a huge grain of truth to it: there are actually real
 vampires and demons, and real witches and warlocks with powerful magic, and
 I am a slayer trainee.
+
+Rindolf: Heh, sounds farfetched, but like Selina in
+<a href="http://www.shlomifish.org/humour/Selina-Mandrake/"><i>Selina
+Mandrake</i></a>, I guess I have no choice but to play along.
 
 
 <!-- / talk_with_rindolf_on_freenode -->
