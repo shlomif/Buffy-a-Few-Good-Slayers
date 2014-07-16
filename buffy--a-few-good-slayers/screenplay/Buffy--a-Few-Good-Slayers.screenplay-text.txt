@@ -535,6 +535,33 @@ Daniel: Sure, that would be nice.
 
 </s>
 
+<s id="identical_vampires_crisis" title="Identical Vampires Crisis">
+
+[Cut to a large restaurant elsewhere in Sunnydale. A girl rushes and
+enters the restaurant. ]
+
+Girl: Help! Vampires! Four identical ones! We need a slayer.
+
+[Martha is a black slayer in her 20s and her friend Jake, who is white, is a
+warlock.]
+
+Martha: We’ll handle it. [Rises up.]
+
++++: Can you show us where they are?
+
+[ They walk.]
+
+Martha: Jake, make sure to bind them using magical ropes and then I’ll deal
+with them.
+
+[They approach the vampires and Jake casts the spell.]
+
+Martha: What the fuck?
+
+<!-- / identical_vampires_crisis -->
+
+</s>
+
 <s id="buffy_faith_and_willow_restaurant_talk_with_daniel" title="Buffy, Faith, Willow, at the Restaurant with Daniel">
 
 Daniel: You know, there’s this piece of information that I wish I could be
