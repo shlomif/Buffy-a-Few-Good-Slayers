@@ -406,8 +406,8 @@ Cliff: Well, I actually met her a few times including in a fight tournament
 where she lost one of the first few rounds. She’s a good fighter, but not
 that good. Then she saw me fighting, and asked me if we can fight.
 
-Becky: Summer Glau asked <b>you</b> to fight her? Get out! I’m not worthy…
-I’m not worthy… I’m not worthy… Cliff, you’re a freaking wizard!
+Becky: Summer Glau asked <b>you</b> to fight <b>her</b>? Get out! I’m not
+worthy… I’m not worthy… I’m not worthy… Cliff, you’re a freaking wizard!
 
 Cliff: I’m a freaking witch! Anyway, I won all three rounds and she told me
 it was a good fight.
@@ -450,7 +450,7 @@ Buffy: Heh, well, it is Faith that has an unnatural obsession with
 not me.
 
 +++: In any case, for your information, I fought against Chuck Norris several
-times and lost most of them. In fact, that was part of the catalyst that made
+times and lost all of them. In fact, that was part of the catalyst that made
 us realise that slayers were only humans and that men can be equally as
 capable slayers as women. You will hopefully get a chance to meet and even
 fight against Mr. Norris sometime throughout the school year.
@@ -599,6 +599,50 @@ Buffy: I guess, but be careful, and stay close to us.
 +++: OK, let’s walk through this portal that Willow here created.
 
 [They walk.]
+
+</s>
+
+<s id="examining_the_duplicate_vampires" title="Examining the Duplicate Vampires">
+
+[ Buffy, Faith, Willow, and Daniel arrive at the place. Martha, Jake, Becky,
+Cliff, Chankey, Xander, Oz, Giles, etc. are already there. ]
+
+Buffy: Hi all, so what seems to be the problem?
+
++++: Becky, What are your team and you doing here?
+
+Becky: I’ve been monitoring the emergency feed using my smartphone, and I let
+my team know about it.
+
+Buffy: Good job. You have a lot of potential.
+
+Becky: Anyway, to business.
+
+[They observe 4 identical pseudo-vampire duplicates tied by magical chains.]
+
+Martha: 4 identical vampire thingies… this shit’s completely dope.
+
+Willow: I cannot sense a psyche in any of them.
+
+Faith: And they cannot be twins.
+
+Xander: Maybe they were clones… or Star-Trek like duplicates!
+
+Vampire Duplicate No. 1: We’re not duplicates… we are duplicates… we’re not.
+
+Other Vampire Duplicates: Yes, no.
+
+[Buffy sighs.]
+
+Buffy: OK, Xandoosh, can you perform a search to find where such a duplicator
+is present?
+
+Xander: Sure! Hey, Will, can you use a spell for that?
+
+Willow: Ah…yes. [She casts a spell and controls her smartphone to show a
+location in the digital maps’ service.]
+
++++: OK, it’s here in Sunnydale.
 
 </s>
 
