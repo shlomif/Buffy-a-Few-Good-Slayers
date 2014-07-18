@@ -644,6 +644,25 @@ location in the digital maps’ service.]
 
 +++: OK, it’s here in Sunnydale.
 
+[Oz casts a spell to open a portal to it.]
+
+Oz: Coast’s clear.
+
+Xander: OK, let’s go.
+
+</s>
+
+<s id="the_q_continuum_duplicator" title="The Q Continuum’s Duplicator">
+
+[The Scooby Gang and company are in a dark room with a large silverish-coloured
+door-frame-like device in it with the letter "Q" at the top using space
+style. ]
+
+Buffy: Is this a duplicator?
+
+Xander: Let's see [he goes to the back] - there are instructions here:
+TODO : FILL IN.
+
 </s>
 
 <s id="talk_with_rindolf_on_freenode" title="Talk with “rindolf” on IRC.">
