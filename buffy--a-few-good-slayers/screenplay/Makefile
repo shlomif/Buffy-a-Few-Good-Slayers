@@ -8,9 +8,9 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 NAME = Buffy--a-Few-Good-Slayers
 DOCS_BASE = $(NAME) $(NAME)-hebrew
 
-include screenplays_common.mak
-
 SELINA_UPLOAD_TEMP_DEST = temp-summerschool-at-the-nsa
+
+include screenplays_common.mak
 
 all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
