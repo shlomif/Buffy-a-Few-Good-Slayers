@@ -455,6 +455,25 @@ us realise that slayers were only humans and that men can be equally as
 capable slayers as women. You will hopefully get a chance to meet and even
 fight against Mr. Norris sometime throughout the school year.
 
+Becky: I see. So, Ms. Summers, what are you doing here in the library?
+
+Buffy: I’m looking for a book I misplaced.
+
+Becky: About slaying?
+
+Buffy: No, about cooking. A cookbook from the late 60s with a nice spinach,
+brocolli and cheese caserole.
+
+Becky: [Types a few things on the keyboard.] Ms. Summers, I was able to find
+a recipe for a caserole like that from that era.
+
+Buffy: Let me see. [Looks] Wow! Looks great. Becky, you've got a lot of
+potential.
+
+Becky: Why, thank you!
+
+Cliff: Bleh! [Puts his hands on his head.]
+
 <!-- / becky_in_the_library__with_buffy -->
 
 </s>
