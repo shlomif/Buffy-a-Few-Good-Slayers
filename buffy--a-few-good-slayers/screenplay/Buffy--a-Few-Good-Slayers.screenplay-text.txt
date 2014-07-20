@@ -472,7 +472,7 @@ potential.
 
 Becky: Why, thank you!
 
-Cliff: Bleh! [Puts his hands on his head.]
+Cliff: Bleh! [He puts his head in his hands.]
 
 <!-- / becky_in_the_library__with_buffy -->
 
