@@ -140,4 +140,45 @@ told her many Jewish married men offered to have an affair with her.
 * Buffy looking at the match which looks awful: "Who says it's fair!".
 * (Last Action Hero / Hamlet scene reference.)
 
+=head2 Etymology of the Characters’ names
+
+=head3 Rebecca "Becky" Shepherd
+
+The Rebecca is a reference to several Rebeccas I have known including:
+
+=over 4
+
+=item * My late grandmother Rivkah Halperin-Fish
+
+=item * Rebecca "Rebec" who is a health information worker and a geek.
+
+=item * An American student who studied Medieval Near Eastern history in TAU.ac.il
+
+Called "Becka" or "Beck":
+
+L<http://mail.perl.org.il/pipermail/perl/2005-December/007560.html>
+
+=item * Becky Alcorn from perlmeme.org
+
+=back
+
+I also wish to call my future daughter (if and when I have one) that.
+
+Shepherd is a reference to L<https://en.wikipedia.org/wiki/Ashton_Shepherd>
+who is a wonderful Country singer.
+
+=head3 Chankey Rajeesh
+
+Chankey is a tribute to
+L<http://stackoverflow.com/users/257635/chankey-pathak> with whom I have been
+enjoying talking with. Rajeesh is a common Indian name.
+
+=head3 Cliff Farrel
+
+"Cliff" may be a reference to the cat L<Clifford> or to L<Cliff>-notes.
+
+L<Farrel> is a tribute to
+L<https://en.wikipedia.org/wiki/Terry_Farrell_%28actress%29> who played
+L<http://en.memory-alpha.org/wiki/Jadzia_Dax> on I<Star Trek: Deep Space 9>.
+
 =cut
