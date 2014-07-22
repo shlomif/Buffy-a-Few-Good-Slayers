@@ -43,11 +43,11 @@ Attribution Noncommercial Share-Alike 3.0 Unported Licence (CC-by-nc-sa)</a>
 
 [Text on the screen: Sunnydale High School Orientation Day ; Sunnydale ; California
 
-First few chords of <a href="https://www.youtube.com/watch?v=M11SvDtPBhA">Miley
+First few chords of <a href="http://www.youtube.com/watch?v=M11SvDtPBhA">Miley
 Cyrus’ “Party In The U.S.A”</a>. Rebecca “Becky” Shepherd is shown
 walking in the high school lobby listening to the song playing from her
 smartphone that is tucked on her belt. She is wearing a
-<a href="https://en.wikipedia.org/wiki/My_Little_Pony%3A_Friendship_Is_Magic">My
+<a href="http://en.wikipedia.org/wiki/My_Little_Pony%3A_Friendship_Is_Magic">My
 Little Pony: Friendship is Magic</a> shirt, and has a name tag that reads
 "Rebecca Shepherd (Slayer)".
 ]
@@ -80,7 +80,7 @@ Becky: “Becky” please.
 
 Chankey: Yes, well, I am of Indian descent and carry an Indian name. I have
 photographic memory, and did extremely well in my studies. I was supposed to
-start studying in <a href="https://en.wikipedia.org/wiki/Harrow_School">Harrow
+start studying in <a href="http://en.wikipedia.org/wiki/Harrow_School">Harrow
 School</a> (the notorious public school, or what you Americans will call a
 “private school”) because I had many friends there, but then became aware
 of some demonic activity in Greater London, and was indoctrinated as a
@@ -95,12 +95,12 @@ Chankey: Yes.
 +++: So what about you? What’s your story?
 
 Becky: Well, I grew up and lived in
-<a href="https://en.wikipedia.org/wiki/Charlotte%2C_North_Carolina">Charlotte,
+<a href="http://en.wikipedia.org/wiki/Charlotte%2C_North_Carolina">Charlotte,
 North Carolina</a> (great town!). My mother’s Jewish and I’m kind of a spoiled
-<a href="https://duckduckgo.com/?q=jewish%20american%20princess">Jewish
+<a href="http://duckduckgo.com/?q=jewish%20american%20princess">Jewish
 American Princess</a>.
 
-Cliff: Heh, like Princess Vespa in <a href="https://en.wikipedia.org/wiki/Spaceballs">Spaceballs</a>?
+Cliff: Heh, like Princess Vespa in <a href="http://en.wikipedia.org/wiki/Spaceballs">Spaceballs</a>?
 
 Becky: Oh, I love this film, and I love the way she undergoes a <a href="http://en.wikipedia.org/wiki/Catharsis">Catharsis</a>.
 
@@ -228,10 +228,10 @@ that you are safe.
 
 +++: There’s a lot of pseudo-Mystical junk masquerading in today’s world, so
 don’t expect the worlds of
-<a href="https://en.wikipedia.org/wiki/Harry_Potter">Harry Potter</a>, the
-<a href="https://en.wikipedia.org/wiki/Discworld">Discworld</a>,
-<a href="https://en.wikipedia.org/wiki/Sabrina,_the_Teenage_Witch_%28TV_series%29">Sabrina the Teenage Witch</a>, or even
-<a href="https://en.wikipedia.org/wiki/My_Little_Pony%3A_Friendship_Is_Magic">My Little Pony</a> to be 100% accurate. As interesting, enlightening,
+<a href="http://en.wikipedia.org/wiki/Harry_Potter">Harry Potter</a>, the
+<a href="http://en.wikipedia.org/wiki/Discworld">Discworld</a>,
+<a href="http://en.wikipedia.org/wiki/Sabrina,_the_Teenage_Witch_%28TV_series%29">Sabrina the Teenage Witch</a>, or even
+<a href="http://en.wikipedia.org/wiki/My_Little_Pony%3A_Friendship_Is_Magic">My Little Pony</a> to be 100% accurate. As interesting, enlightening,
 and insightful they are, they must be taken with a huge grain of salt.
 
 +++: Thanks to the growing number of demon-fighters, the demon world has been
@@ -254,7 +254,7 @@ subjects. We are also always open to hear our students’ criticism or question.
 
 +++: I should also note that while we hope you learn a lot from us, then
 to paraphrase on what
-<a href="https://en.wikipedia.org/wiki/Hanina">Rabbi Hanina</a> said
+<a href="http://en.wikipedia.org/wiki/Hanina">Rabbi Hanina</a> said
 in the Talmud, we will learn much more from you.
 
 +++: Finally note that although you have a lot of responsibility, slaying
@@ -297,7 +297,7 @@ Becky: Nice to meet the three of you, I’m Becky.
 <s id="becky_in_the_library__the_librarian" title="The Librarian">
 
 [Becky enters the new library of Sunnydale High School. It’s large. The
-song <a href="https://www.youtube.com/watch?v=4G6QDNC4jPs">“Everytime We Touch”
+song <a href="http://www.youtube.com/watch?v=4G6QDNC4jPs">“Everytime We Touch”
 by Cascada</a> is playing in the background and people are making other light
 noises. Becky approaches the librarian, Ms. Chu, who has Oriental looks.]
 
@@ -441,7 +441,7 @@ Buffy: It’s “Summers”. Angel and I are both called that. He didn’t find 
 original family name usable in this day and age, so he adopted mine. His
 original name was very aristocratic and he is actually a direct male
 descendent of
-<a href="https://en.wikipedia.org/wiki/Charlemagne">Charlemagne</a>.
+<a href="http://en.wikipedia.org/wiki/Charlemagne">Charlemagne</a>.
 
 Becky: Ooooh… so you are now Milady de Summers? Awesome!
 
@@ -674,13 +674,62 @@ Xander: OK, let’s go.
 <s id="the_q_continuum_duplicator" title="The Q Continuum’s Duplicator">
 
 [The Scooby Gang and company are in a dark room with a large silverish-coloured
-door-frame-like device in it with the letter "Q" at the top using space
-style. ]
+door-frame-like device in it with the letter "Q" at the top using
+space-styled-font. ]
 
 Buffy: Is this a duplicator?
 
 Xander: Let's see [he goes to the back] - there are instructions here:
-TODO : FILL IN.
+
++++: “Medium-sized duplicator. Product of the Q Continuum. Place item to
+duplicate, press the green ‘Duplicate button’ and specify the quantity. Press
+and hold the red ‘Duplicate organisms’ button to also duplicate organisms.
+Share and enjoy!”
+
+Buffy: I see. Does anyone here have anything precious that we can try here?
+
+Willow: Yeah, I have my wedding ring. It’s a golden diamond ring that is a
+family heritage. I don’t usually wear it, but I keep it in my pouch. Here
+[she places the ring at the side of the duplicator.]
+
+[Buffy presses the green button and the duplicator says:]
+
+Duplicator: How many copies?
+
+Buffy: one hundred.
+
+[Nothing happens.]
+
+Xander: Buff, you forgot the magic word.
+
+Buffy: [sighs] Please!
+
+[100 rings identical to those of Willow appear in the other side.]
+
+Willow: wow!
+
+Faith: I’m sure <a href="http://en.wikipedia.org/wiki/Mr._T">Mr. T</a> will
+be happy from this.
+
+Xander: Wow! That’s amazing. This thing is the best thing ever. We can use it
+to duplicate gold, or platinum or <a href="http://en.wikipedia.org/wiki/Iridium">Iridium</a>… or food!
+
+Buffy: Or vampires, or other demons, or nuclear weapons!
+
+Xander: All right, all right. We should hide it somewhere until we figure it
+out. I think I’ll give it to the people I know at the National Treasury, they
+can handle demons and other bad elements of society well enough.
+
+Becky: How are we going to carry it there.
+
+Xander: No problem here [he presses a button at the side while holding a
+side handle and the duplicator shrinks and Xander carries it].
+
+Buffy: Excellent! Oz, please teleport Xander and yourself to the National
+Treasury and make sure this Q Continuum duplicator is going to be safe there.
+Get back here as soon as you two can.
+
++++: In the meanwhile, we need to do some research and damage assesment.
 
 </s>
 
@@ -791,7 +840,7 @@ Giles: [Reciting the summoning spell.] FILL IN.
 
 [A gateway opens and Sarah Michelle Gellar (“SMG”) wearing a T-shirt with
 a poster of the show Buffy the Vampire Slayer, a “#buffy” hash-tag and
-an <a href="https://twitter.com/RealSMG">@RealSMG</a> Twitter ID, as well as
+an <a href="http://twitter.com/RealSMG">@RealSMG</a> Twitter ID, as well as
 shorts, steps through.]
 
 Giles, Willow: Buffy?
