@@ -18,14 +18,14 @@ my $out_fn = $obj->out_fn;
 my $target_dir = $obj->target_dir;
 
 {
-    my $epub_basename = 'Summerschool-at-the-NSA';
+    my $epub_basename = 'Buffy--A-Few-Good-Slayers';
 
     $obj->epub_basename($epub_basename);
     io->file($target_dir . '/' . $obj->json_filename)->utf8->print(
         encode_json(
             {
                 filename => $epub_basename,
-                title => q/Summerschool at the NSA/,
+                title => q/Buffy: a Few Good Slayers/,
                 authors =>
                 [
                     {
@@ -41,14 +41,14 @@ my $target_dir = $obj->target_dir;
                     },
                 ],
                 cover => "images/$gfx",
-                rights => "Creative Commons Attribution ShareAlike Unported (CC-by-3.0)",
+                rights => "Creative Commons Attribution Noncommercial ShareAlike Unported (CC-by-nc-sa-3.0)",
                 publisher => 'http://www.shlomifish.org/',
                 language => 'en-GB',
                 subjects => [ 'FICTION/Humorous', 'FICTION/Mashups', 'Buffy', 'xkcd', ],
                 identifier =>
                 {
                     scheme => 'URL',
-                    value => 'http://www.shlomifish.org/humour/Summerschool-at-the-NSA/',
+                    value => 'http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/',
                 },
                 contents =>
                 [
