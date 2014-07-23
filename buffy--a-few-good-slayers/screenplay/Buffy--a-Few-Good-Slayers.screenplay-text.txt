@@ -841,6 +841,23 @@ Lily: Wow! Awesome.
 
 </s>
 
+<s id="willow_putting_her_daughter_to_bed" title="Willow Putting Her Daughter to Bed">
+
+[ Willow is sitting next to the computer reading. She is kinda worried. ]
+
+Deborah: [= Willow’s daughter, voice from the other room.] Mommy, can you come
+and read me a bed-time story?
+
+[Music: <a href="http://www.youtube.com/watch?v=0sXxhp9Zcow">Darin: “B what U wanna B”</a> (lyrics).
+
+Willow enters the room. It is not too large, there are some dolls of
+My Little Pony, Sesame Street, Disney films, etc. but not too many. There's a
+computer in one corner, where Deborah is sitting. She is 6 years old.]
+
+Willow: Hi, sweetie.
+
+</s>
+
 <s id="summoning_the_benevolent_spirit" title="Summoning the benevolent spirit">
 
 [Giles, Buffy, Faith, Willow, etc. are standing in a row.]
