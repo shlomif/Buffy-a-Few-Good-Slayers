@@ -183,12 +183,16 @@ L<http://en.memory-alpha.org/wiki/Jadzia_Dax> on I<Star Trek: Deep Space 9>.
 
 =head3 Sarah Anne Eisenman
 
-Sarah is a reference to L<http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar>,
-who in the Beckyverse, Buffy believes is the first name of her kindred
-spirit (which turns out to be Gellar after all).
+“Sarah” is a reference to
+L<http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar>.
+In the Beckyverse, Buffy believes that “Sarah” is the first name of her
+kindred spirit (who eventually turns out to be Gellar after all, only the
+one(s) from alternate realities), and it was part of the inspiration for
+the character name for the show L<Sarah the Vampire Slayer>.
 
 Anne was the middle name of L<http://buffy.wikia.com/wiki/Buffy_Summers> from
-the show.
+the original show
+L<http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%28TV_series%29>.
 
 L<Eisenman> is a reference to L<Tamar Eisenman|http://www.eisenwoman.com/> (
 L<Twitter|http://twitter.com/eisenwoman>,
