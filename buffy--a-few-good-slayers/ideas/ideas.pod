@@ -183,9 +183,9 @@ L<http://en.memory-alpha.org/wiki/Jadzia_Dax> on I<Star Trek: Deep Space 9>.
 
 =head3 Sarah Anne Eisenman
 
-Sarah is a reference to L<http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar>
-which in the Beckyverse, Buffy believes is the first name of her kindred
-spirit.
+Sarah is a reference to L<http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar>,
+who in the Beckyverse, Buffy believes is the first name of her kindred
+spirit (which turns out to be Gellar after all).
 
 Anne was the middle name of L<http://buffy.wikia.com/wiki/Buffy_Summers> from
 the show.
@@ -199,7 +199,7 @@ its natural L<Ashkenazi Jewish|http://en.wikipedia.org/wiki/Ashkenazi_Jews>
 ring, and possibly its similiarty to
 http://en.wikipedia.org/wiki/Natalie_Portman ’s last name, who is the actress
 who both plays Sarah Anne Eisenman on the fictional show
-I<Sarah the Vampire Slayer>, and who, in the Beckyverse, was the Alpha female
+I<Sarah the Vampire Slayer>, and who, in the Beckyverse, was the Alpha Female
 of the L<Web 1.0|http://en.wikipedia.org/wiki/Web_1.0#.22Web_1.0.22> era (and
 somewhat later) instead of Sarah Michelle Gellar.
 
