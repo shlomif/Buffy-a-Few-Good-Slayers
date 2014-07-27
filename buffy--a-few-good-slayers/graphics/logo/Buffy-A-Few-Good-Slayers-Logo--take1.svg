@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="1052.3622"
-   height="744.09448"
+   width="677.03918"
+   height="683.78717"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
@@ -238,11 +238,11 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       x1="612.49"
-       y1="176.46"
+       x1="612.48999"
+       y1="176.46001"
        x2="265.97"
        gradientUnits="userSpaceOnUse"
-       y2="878.46"
+       y2="878.46002"
        id="linearGradient3078">
       <stop
          offset="0"
@@ -256,7 +256,7 @@
     <linearGradient
        inkscape:collect="always"
        x1="574.13"
-       y1="803.02"
+       y1="803.02002"
        x2="249.34"
        gradientUnits="userSpaceOnUse"
        y2="191.8"
@@ -272,8 +272,8 @@
     </linearGradient>
     <filter
        inkscape:collect="always"
-       x="-.020874"
-       y="-.26541"
+       x="-0.020873999"
+       y="-0.26541001"
        color-interpolation-filters="sRGB"
        width="1.0417"
        height="1.5308"
@@ -285,8 +285,8 @@
     </filter>
     <filter
        inkscape:collect="always"
-       x="-.020874"
-       y="-.26541"
+       x="-0.020873999"
+       y="-0.26541001"
        color-interpolation-filters="sRGB"
        width="1.0417"
        height="1.5308"
@@ -323,17 +323,17 @@
        xlink:href="#linearGradient3078"
        id="linearGradient4228"
        gradientUnits="userSpaceOnUse"
-       x1="612.49"
-       y1="176.46"
+       x1="612.48999"
+       y1="176.46001"
        x2="265.97"
-       y2="878.46" />
+       y2="878.46002" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3075"
        id="linearGradient4230"
        gradientUnits="userSpaceOnUse"
        x1="574.13"
-       y1="803.02"
+       y1="803.02002"
        x2="249.34"
        y2="191.8" />
     <radialGradient
@@ -342,36 +342,36 @@
        id="radialGradient4232"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0216,-0.018403,0.0070302,0.39045,-14.097,507.23)"
-       cx="384.57"
-       cy="823.98"
-       r="90.932" />
+       cx="384.57001"
+       cy="823.97998"
+       r="90.931999" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5065"
        id="radialGradient4234"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.094041,0,84.58)"
-       cx="372.05"
-       cy="93.359"
-       r="85.235" />
+       cx="372.04999"
+       cy="93.359001"
+       r="85.235001" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3868"
        id="radialGradient4236"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-0.37959,0.035698,0,601.44,376.17)"
-       cx="372.05"
-       cy="93.359"
-       r="85.235" />
+       cx="372.04999"
+       cy="93.359001"
+       r="85.235001" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3868"
        id="radialGradient4238"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-0.37959,0.035698,0,601.44,439.01)"
-       cx="372.05"
-       cy="93.359"
-       r="85.235" />
+       cx="372.04999"
+       cy="93.359001"
+       r="85.235001" />
   </defs>
   <sodipodi:namedview
      inkscape:window-y="0"
@@ -380,8 +380,8 @@
      inkscape:window-width="772"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="449.40849"
-     inkscape:cx="677.57594"
+     inkscape:cy="251.71676"
+     inkscape:cx="507.41472"
      inkscape:zoom="0.3981519"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -390,14 +390,20 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="true"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid3885"
        empspacing="5"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="-170.16122px"
+       originy="-24.450924px" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -414,7 +420,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(0,-308.2677)">
+     transform="translate(-170.16122,-344.1241)">
     <g
        id="g4194"
        transform="matrix(0.60740016,-0.57221281,0.57221281,0.60740016,348.38607,300.63347)">
@@ -665,5 +671,5 @@
      inkscape:label="Text"
      id="layer2"
      inkscape:groupmode="layer"
-     transform="translate(0,-308.2677)" />
+     transform="translate(-170.16122,-344.1241)" />
 </svg>
