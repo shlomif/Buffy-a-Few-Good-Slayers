@@ -14,8 +14,8 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:version="0.32"
    id="svg2"
-   height="744.09448"
-   width="1052.3622"
+   height="149.8125"
+   width="100.40625"
    version="1.1">
   <defs
      id="defs3">
@@ -106,6 +106,24 @@
        x2="276.87796"
        y2="287.00787"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3789"
+       id="linearGradient3197"
+       gradientUnits="userSpaceOnUse"
+       x1="176.66534"
+       y1="283.46457"
+       x2="276.87796"
+       y2="283.46457" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3811"
+       id="linearGradient3199"
+       gradientUnits="userSpaceOnUse"
+       x1="176.66534"
+       y1="287.00787"
+       x2="276.87796"
+       y2="287.00787" />
   </defs>
   <sodipodi:namedview
      inkscape:window-y="47"
@@ -114,9 +132,9 @@
      inkscape:window-width="772"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="486.37487"
-     inkscape:cx="236.5342"
-     inkscape:zoom="2.0525253"
+     inkscape:cy="-17.390991"
+     inkscape:cx="349.46234"
+     inkscape:zoom="0.56310053"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -124,7 +142,11 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="true"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid3009"
@@ -134,7 +156,9 @@
        snapvisiblegridlinesonly="true"
        units="mm"
        spacingx="2mm"
-       spacingy="2mm" />
+       spacingy="2mm"
+       originx="-49.873958mm"
+       originy="-109.90812mm" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -151,37 +175,27 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(0,-308.2677)">
-    <path
-       sodipodi:type="spiral"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path3797"
-       sodipodi:cx="170.07874"
-       sodipodi:cy="283.46457"
-       sodipodi:expansion="1"
-       sodipodi:revolution="3"
-       sodipodi:radius="76.65345"
-       sodipodi:argument="-17.866762"
-       sodipodi:t0="0"
-       d="m 170.07874,283.46457 c 2.13186,3.1978 -3.25879,4.4514 -5.31497,3.54331 -5.5721,-2.46088 -5.01571,-10.11719 -1.77165,-14.17323 5.80286,-7.25531 16.85851,-6.0301 23.0315,0 9.05911,8.84941 7.09475,23.69858 -1.77166,31.88976 -11.81753,10.91756 -30.57466,8.18205 -40.74803,-3.54331 -12.80214,-14.75516 -9.28129,-37.46815 5.31496,-49.60629 17.67803,-14.70093 44.37149,-10.38752 58.46457,7.08661 16.60821,20.59266 11.49811,51.28096 -8.85827,67.32283 -23.50224,18.52098 -58.19454,12.61163 -76.1811,-10.62992 -20.43748,-26.40853 -13.72719,-65.11099 12.40158,-85.03937 29.31253,-22.35662 72.02955,-14.84423 93.89763,14.17323 24.27772,32.21489 15.96239,78.94969 -15.94488,102.75591"
-       transform="translate(22.411416,460.27557)" />
-    <path
-       style="fill:url(#linearGradient3787);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 177.16535,354.3307 70.86615,-148.81889 28.34645,14.17322 z"
-       id="path3011"
-       inkscape:connector-curvature="0"
-       transform="translate(0,308.2677)"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:url(#linearGradient3809);stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1.0"
-       d="m 177.16535,354.3307 99.2126,-134.64567 -7.08661,28.34646 z"
-       id="path3801"
-       inkscape:connector-curvature="0"
-       transform="translate(0,308.2677)" />
+     transform="translate(-176.71875,-513.11145)">
+    <g
+       id="g3170">
+      <path
+         sodipodi:nodetypes="cccc"
+         transform="translate(0,308.2677)"
+         inkscape:connector-curvature="0"
+         id="path3011"
+         d="m 177.16535,354.3307 70.86615,-148.81889 28.34645,14.17322 z"
+         style="fill:url(#linearGradient3197);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,308.2677)"
+         inkscape:connector-curvature="0"
+         id="path3801"
+         d="m 177.16535,354.3307 99.2126,-134.64567 -7.08661,28.34646 z"
+         style="fill:url(#linearGradient3199);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:label="Text"
      id="layer2"
      inkscape:groupmode="layer"
-     transform="translate(0,-308.2677)" />
+     transform="translate(-176.71875,-513.11145)" />
 </svg>
