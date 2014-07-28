@@ -341,7 +341,7 @@ Becky: Ooooh... watch it, Mr. Watcher!
 
 Chankey: Heh, tell me about it. What is it about women and Indian men?
 
-Cliff: What is it about women and all exotic men? Or non-exotic ones! girls
+Cliff: What is it about women and all exotic men? Or non-exotic ones! Girls
 here hit on me like crazy, and I’ve had lots of dates.
 
 Becky: Men do that too, by the way. Like… in Israel, lots of men asked my
@@ -355,14 +355,14 @@ to have an affair with them.
 
 Cliff: What? Such an affair? How is this…
 
-Becky: Kosher? It is for men based on the Jewish tradition. Not for women
-though.
+Becky: Kosher? It is for married men based on the Jewish Law. Not for
+women though.
 
 Cliff: Heh, double standards.
 
 Becky: Well, that’s Judaism for you.
 
-+++: Anyway, Orthodox religious Jews are attracted to an ethnic Jewess
++++: Anyway, Orthodox religious Jews are attracted to ethnic Jewesses
 (like me) like flies are attracted to a piece of meat, because we don’t
 have to observe for them to have Jewish children. I had many awesome dates
 with Yeshiva pupils.
@@ -394,7 +394,9 @@ a fight he’s won.
 
 Becky: Awesome!
 
-+++: Anyway, you probably know that Summer Glau pawns Chuck. She doesn’t have
++++: Anyway, you probably know that
+<a href="http://www.shlomifish.org/humour/bits/facts/Summer-Glau/">Summer
+Glau pawns Chuck</a>. She doesn’t have
 to hurt you if she doesn’t want to, while Norris kills everyone in sight. It
 also takes her a minute to write a rebuttal for a bad blog comment like in
 <a href="http://xkcd.com/406/">xkcd: “Venting”</a>, and she would sign it as
@@ -418,8 +420,10 @@ it was a good fight.
 
 <s id="becky_in_the_library__with_buffy" title="With Buffy">
 
-Becky: of course, everyone knows that Buffy is better than Chuck. He’s
-been secretly fighting against her, and so far lost every battle with her.
+Becky: of course, everyone knows that Buffy is better than Chuck
+[<a href="http://www.shlomifish.org/humour/bits/facts/Buffy/">Buffy
+Facts</a>]. He’s been secretly fighting against her, and so far lost each
+of those battles.
 
 Cliff: Yeah, and her gaze can turn Medusa into stone!
 
@@ -429,7 +433,7 @@ for a very good reason.
 Buffy’s voice: Buffy Summers is always there when people are spreading
 untrue hyperboles about her.
 
-Cliff: oh, hello Ms. Summers.
+Cliff: Oh, hello Ms. Summers.
 
 [Buffy approaches them from a different aisle in the library.]
 
@@ -439,19 +443,19 @@ Cliff: By the way, what is your post-marriage name?
 
 Buffy: It’s “Summers”. Angel and I are both called that. He didn’t find his
 original family name usable in this day and age, so he adopted mine. His
-original name was very aristocratic and he is actually a direct male
+original name was very aristocratic, and he is actually a direct male
 descendent of
 <a href="http://en.wikipedia.org/wiki/Charlemagne">Charlemagne</a>.
 
 Becky: Ooooh… so you are now Milady de Summers? Awesome!
 
 Buffy: Heh, well, it is Faith that has an unnatural obsession with
-<a href="http://en.wikipedia.org/wiki/Milady_de_Winter">Milady de-Winter</a>,
-not me.
+<a href="http://en.wikipedia.org/wiki/Milady_de_Winter">Milady de-Winter</a>
+— not me.
 
 +++: In any case, for your information, I fought against Chuck Norris several
-times and lost all of them. In fact, that was part of the catalyst that made
-us realise that slayers were only humans and that men can be equally as
+times and lost all the battles. In fact, that was part of the catalyst that
+made us realise that slayers were only humans and that men can be equally as
 capable slayers as women. You will hopefully get a chance to meet and even
 fight against Mr. Norris sometime throughout the school year.
 
@@ -468,7 +472,7 @@ Becky: [Types a few things on the keyboard.] Ms. Summers, I was able to find
 a recipe for a caserole like that from that era.
 
 Buffy: Let me see. [Looks] Wow! Looks great. Becky, you've got a lot of
-potential.
+potential as a slayer.
 
 Becky: Why, thank you!
 
@@ -502,7 +506,7 @@ Buffy: Which just rolls off the tongue.
 
 +++: Heh, to be frank, I don’t think she, ahem…
 
-Faith: Reaches fourth base?
+Faith: Reaches <a href="http://xkcd.com/540/">fourth base</a>?
 
 Buffy: Exactly! With most of them.
 
@@ -515,8 +519,10 @@ Willow: Oh, I know. One of my students in the university… he’s a brilliant
 software developer, and is really knowledgeable. I can tell him to contact this
 friend of yours.
 
-+++: Oh, oh! My cousin’s son: Noam. He just finished his IDF service, and wants
-to come to work here in Sunnydale.
++++: Oh, oh! My cousin’s son:
+<a href="http://www.thinkbabynames.com/meaning/1/Noam">Noam</a>. He just
+finished his Israeli military service, and wants to come to work here in
+Sunnydale.
 
 Buffy: So, like… Israeli… Jewish…
 
@@ -712,7 +718,8 @@ Faith: I’m sure <a href="http://en.wikipedia.org/wiki/Mr._T">Mr. T</a> will
 be happy from this.
 
 Xander: Wow! That’s amazing. This thing is the best thing ever. We can use it
-to duplicate gold, or platinum or <a href="http://en.wikipedia.org/wiki/Iridium">Iridium</a>… or food!
+to duplicate gold, or platinum or
+<a href="http://en.wikipedia.org/wiki/Iridium">Iridium</a>… or food!
 
 Buffy: Or vampires, or other demons, or nuclear weapons!
 
