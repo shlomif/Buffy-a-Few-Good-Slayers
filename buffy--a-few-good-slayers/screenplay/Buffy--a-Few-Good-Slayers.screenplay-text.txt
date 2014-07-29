@@ -783,6 +783,83 @@ Rindolf: Wow! This seems like a huge crisis.
 
 </s>
 
+<s id="sarah_the_vamp_slayer" title="Sarah the Vampire Slayer">
+
+<s id="sarah_the_vamp_slayer__date_with_the_yeshivah_pupil" title="Sarah the Vampire Slayer - Date with the Yeshivah Pupil">
+
+[<i>Sarah the Vampire Slayer</i> featuring Natalie Portman as
+Sarah Anne Eisenman, an Ethnic, Reform, Jewish slayer.
+
+Sarah is sitting in a restaurant on a date with Yaakov, a Yeshivah Pupil
+from a local <a href="http://en.wikipedia.org/wiki/Chabad">Chabad</a> Yeshiva.
+]
+
+Sarah: So how's life in the Yeshivah?
+
+Yaakov: Oh, you know, studies, studies and studies.
+
+Sarah: Yes, I know. I need to study as a slayer and a high school student
+as well.
+
++++: By the way, I’ve been meaning to ask: what’s the deal with the
+<a href="https://en.wikipedia.org/wiki/Messianic">Messianic</a> nature of
+Chabad?
+
+Yaakov: Oh that. First of all, it’s a kinda small minority oh us, and secondly
+it’s kinda rooted in the belief that at any stage, every Jew must consider
+themselves
+<a href="http://www.shlomifish.org/philosophy/the-eternal-jew/the-eternal-jew/change_the_world.html">the
+Messiah</a> and behave accordingly, which will eventually bring the Jewish
+people and the world at large to
+<a href="http://en.wikipedia.org/wiki/Salvation">salvation</a> and prosperity.
+
+Sarah: [Thinks for a moment] Hmmm… I can relate to it.
+
++++: Tell you what, though? I need to go to the bathroom now. You know: girl
+things?
+
+Yaakov: Sure, I'll wait for the food.
+
+[Sarah goes to the bathroom and notices a vampires couple getting
+ready for action. She rushes back to Yaakov.]
+
+Sarah: Hey, Yaakov. Listen, we have a crisis here and you need to act like
+a Messiah. Can you take your book of
+<a href="https://en.wikipedia.org/wiki/Tehilim">Tehilim</a> and read from it
+when I tell you?
+
+Yaakov: I guess! [He rises up and follows her.]
+
+[They go to meet the vampires.]
+
+Sarah: Now, Yaakov!
+
+[Yaakov starts reciting the Psalms. The vampires are terrified. Sarah
+slays them using a stake.]
+
+Sarah: Eat dust, bastards!
+
+Yaakov: Wow! What was that?
+
+Sarah: Vampires! I cannot believe I’ve had to put you through that on our
+first date.
+
+Yaakov: That's Ok… that’s ok… [scared] I can handle it.
+
+Sarah: It’s over. It’s over. Come let’s return to our table.
+
+[She turns to face him. They look at each other for some seconds and then
+start to kiss one another and make out.
+
+They do it for a while until a girl enters from the restaurant, and looks at
+them.]
+
+Restaurant Girl: Get a room!
+
+[Sarah and Yaakov smile and go on.]
+
+</s>
+
 <s id="sarah_the_vamp_slayer__not_a_nobody" title="Sarah the Vampire Slayer - Not a Nobody">
 
 [<i>Sarah the Vampire Slayer</i> featuring Natalie Portman as
@@ -845,6 +922,10 @@ Suzanne O’Connor.
 Lily: Wow! Awesome.
 
 [Sarah and Lily hug.]
+
+</s>
+
+<!-- / sarah_the_vamp_slayer -->
 
 </s>
 
