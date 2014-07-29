@@ -88,57 +88,57 @@ And certainly isn't when the film ends and she saves the day several times.
 
 =head2 NOTES
 
-* Buffy, Faith, and Willow discuss getting a dog.
-** "I'm a cat person".
-** "Ceiling cat is watching your dog pee"
-** "My friend got a dog and guys keep hitting on/approaching her".
-*** "A slut?"
-*** More like polyamorous.
-*** Experimenting.
-*** She's only 25.
-** "her".
-*** "A slut?"
-*** More like polyamorous.
-*** Experimenting.
-*** She's only 25.
-** Glad we also know many single people and not structure our whole lives
-around our children.
+    * Buffy, Faith, and Willow discuss getting a dog.
+    ** "I'm a cat person".
+    ** "Ceiling cat is watching your dog pee"
+    ** "My friend got a dog and guys keep hitting on/approaching her".
+    *** "A slut?"
+    *** More like polyamorous.
+    *** Experimenting.
+    *** She's only 25.
+    ** "her".
+    *** "A slut?"
+    *** More like polyamorous.
+    *** Experimenting.
+    *** She's only 25.
+    ** Glad we also know many single people and not structure our whole lives
+    around our children.
 
-* Buffy factoids - L<http://www.shlomifish.org/humour/bits/facts/Buffy/>
-** Not really true.
-** Buffy: "I fought against Chuck Norris shortly after high school graduation and lost."
-** Buffy is looking for an old book about cooking in the library.
-** Becky finds the recipe using her Net-wisdom.
-** Buffy: "Wow! You have so much potential! I think you'll make a wonderful slayer."
+    * Buffy factoids - L<http://www.shlomifish.org/humour/bits/facts/Buffy/>
+    ** Not really true.
+    ** Buffy: "I fought against Chuck Norris shortly after high school graduation and lost."
+    ** Buffy is looking for an old book about cooking in the library.
+    ** Becky finds the recipe using her Net-wisdom.
+    ** Buffy: "Wow! You have so much potential! I think you'll make a wonderful slayer."
 
-* Cliff fought against Chuck Norris recently and won in two out of three rounds.
-** Chuck Norris told him "You're not a loser if you keep fighting and losing manybattles. You're a bigger loser if you stop."
-** He also fought against Summer Glau once and won all rounds.
-*** "She's pretty good, but loses many fights."
+    * Cliff fought against Chuck Norris recently and won in two out of three rounds.
+    ** Chuck Norris told him "You're not a loser if you keep fighting and losing manybattles. You're a bigger loser if you stop."
+    ** He also fought against Summer Glau once and won all rounds.
+    *** "She's pretty good, but loses many fights."
 
-* Becky enjoys Cliff calling her "brony girl".
+    * Becky enjoys Cliff calling her "brony girl".
 
-* Chankey saying he read
-L<https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea> and then knew better than to not seize opportunities because he's an Indian or whatever.
-** He's a chick magnet at Sunnydale High School and enjoys it.
-** What is with girls and Indian men?
-** Becky saying a big and unathletic-looking Jewish divorced woman in Israel
-told her many Jewish married men offered to have an affair with her.
-** Even some men can see beyond one's unaesthetical look.
+    * Chankey saying he read
+    L<https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea> and then knew better than to not seize opportunities because he's an Indian or whatever.
+    ** He's a chick magnet at Sunnydale High School and enjoys it.
+    ** What is with girls and Indian men?
+    ** Becky saying a big and unathletic-looking Jewish divorced woman in Israel
+    told her many Jewish married men offered to have an affair with her.
+    ** Even some men can see beyond one's unaesthetical look.
 
-* Sarah Michelle Gellar (from the L<Selinaverse,http://buffyfanfiction.wikia.com/wiki/Selinaverse>) gets summoned as a kindred
-(from the Selinaverse) spirit.
-* - Willow: Buffy?
-  - SMG: That's not my name, my.. oh wait! No I'm actually Sarah Michelle Perez,
-  but everyone knows me as Sarah Michelle Gellar.
-  - Willow and Giles: Who?
-  - SMG: oh great! A world where I wasn't born.
-    Let's get to business. [Uses her mobile] General, your men can come now.
-  [ Lots of sounds of Jeeps, Helicopeters and infantry soldiers crying "Hail, Buffy!" ].
+    * Sarah Michelle Gellar (from the L<Selinaverse,http://buffyfanfiction.wikia.com/wiki/Selinaverse>) gets summoned as a kindred
+    (from the Selinaverse) spirit.
+    * - Willow: Buffy?
+      - SMG: That's not my name, my.. oh wait! No I'm actually Sarah Michelle Perez,
+      but everyone knows me as Sarah Michelle Gellar.
+      - Willow and Giles: Who?
+      - SMG: oh great! A world where I wasn't born.
+        Let's get to business. [Uses her mobile] General, your men can come now.
+      [ Lots of sounds of Jeeps, Helicopeters and infantry soldiers crying "Hail, Buffy!" ].
 
-* Helicopter soldier: "We gave them a fair match."
-* Buffy looking at the match which looks awful: "Who says it's fair!".
-* (Last Action Hero / Hamlet scene reference.)
+    * Helicopter soldier: "We gave them a fair match."
+    * Buffy looking at the match which looks awful: "Who says it's fair!".
+    * (Last Action Hero / Hamlet scene reference.)
 
 =head2 Etymology of the Characters’ names
 
@@ -188,7 +188,7 @@ L<http://en.wikipedia.org/wiki/Sarah_Michelle_Gellar>.
 In the Beckyverse, Buffy believes that “Sarah” is the first name of her
 kindred spirit (who eventually turns out to be Gellar after all, only the
 one(s) from alternate realities), and it was part of the inspiration for
-the character name for the show L<Sarah the Vampire Slayer>.
+the character name for the show I<Sarah the Vampire Slayer>.
 
 Anne was the middle name of L<http://buffy.wikia.com/wiki/Buffy_Summers> from
 the original show
@@ -197,11 +197,11 @@ L<http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%28TV_series%29>.
 L<Eisenman> is a reference to L<Tamar Eisenman|http://www.eisenwoman.com/> (
 L<Twitter|http://twitter.com/eisenwoman>,
 L<Facebook|http://www.facebook.com/tamareisenman>,
-L<YouTube|http://www.youtube.com/user/eisenwoman> ) a.k.a “Eisenwoman” who
-is an Israeli singer I am partial too. This lastname was in part picked for
+L<YouTube|http://www.youtube.com/user/eisenwoman> ) a.k.a the “Eisenwoman” who
+is an Israeli singer I am partial to. This lastname was in part picked for
 its natural L<Ashkenazi Jewish|http://en.wikipedia.org/wiki/Ashkenazi_Jews>
 ring, and possibly its similiarty to
-http://en.wikipedia.org/wiki/Natalie_Portman ’s last name, who is the actress
+L<http://en.wikipedia.org/wiki/Natalie_Portman> ’s last name, who is the actress
 who both plays Sarah Anne Eisenman on the fictional show
 I<Sarah the Vampire Slayer>, and who, in the Beckyverse, was the Alpha Female
 of the L<Web 1.0|http://en.wikipedia.org/wiki/Web_1.0#.22Web_1.0.22> era (and
