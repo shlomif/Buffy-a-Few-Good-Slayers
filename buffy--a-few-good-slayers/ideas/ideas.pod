@@ -171,7 +171,7 @@ who is a wonderful Country singer.
 
 Chankey is a tribute to
 L<http://stackoverflow.com/users/257635/chankey-pathak> with whom I have been
-enjoying talking with. Rajeesh is a common Indian name.
+enjoying talking with. Rajeesh is a common Indian family name.
 
 =head3 Cliff Farrel
 
