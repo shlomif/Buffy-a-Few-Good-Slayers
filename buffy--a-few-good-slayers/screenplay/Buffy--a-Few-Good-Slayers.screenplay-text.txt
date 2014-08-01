@@ -1008,6 +1008,38 @@ Deborah: Night.
 
 </s>
 
+<s id="becky-chankey-and-faith-in-the-library" title="Becky, Chankey, and Faith">
+
+[Becky and Chankey are sitting in the library studying together listening to
+<a href="https://www.youtube.com/watch?v=MpZddsmoEsI">Cimorelli
+- “When I’m gone”</a> . Faith approaches them.]
+
+Faith: Hmm... hi kids! That doesn’t sound exactly like Anna Kendrick.
+
++++: Whoa, who are all those girls?
+
+Becky: Oh, they are Cimorelli - six sisters who sing together. They are
+a big hit on YouTube.
+
+Faith: Six sisters!
+
+Chankey: And they also have some brothers.
+
+Faith: Heh, God bless their mother. After my third pregnancy (to twins) I
+said: "That’s it. No way, José!".
+
++++: I would think their being a big family is part of their charm.
+
+Chankey: Yes, and the way I see it: all the power to them. See: I read
+20,000 Leagues under the sea as a child, and I ended up memorising the English
+translation and now the French original, because I liked it so much.
+
++++: Captain Nemo there, thinks he’s a nobody, which is what "Nemo" means in
+Latin, but he's not.
+
+
+</s>
+
 <s id="summoning_the_benevolent_spirit" title="Summoning the benevolent spirit">
 
 [Giles, Buffy, Faith, Willow, etc. are standing in a row.]
