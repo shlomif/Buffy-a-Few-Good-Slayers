@@ -662,7 +662,7 @@ Other Vampire Duplicates: Yes, no.
 Buffy: OK, Xandoosh, can you perform a search to find where such a duplicator
 is present?
 
-Xander: Sure! Hey, Will, can you use a spell for that?
+Xander: Sure! Hey, Wil, can you use a spell for that?
 
 Willow: Ah…yes. [She casts a spell and controls her smartphone to show a
 location in the digital maps’ service.]
@@ -798,7 +798,7 @@ Sarah: So how's life in the Yeshivah?
 
 Yaakov: Oh, you know, studies, studies and studies.
 
-Sarah: Yes, I know. I need to study as a slayer and a high school student
+Sarah: Yes, I know. I need to study as a slayer. And as a high school student
 as well.
 
 +++: By the way, I’ve been meaning to ask: what’s the deal with the
@@ -818,7 +818,7 @@ Sarah: [Thinks for a moment] Hmmm… I can relate to it.
 +++: Tell you what, though? I need to go to the bathroom now. You know: girl
 things.
 
-Yaakov: Sure, I'll her wait for the food.
+Yaakov: Sure, I'll be here waiting for the food.
 
 [Sarah goes to the bathroom and notices a vampires’ couple getting
 ready for action. She rushes back to Yaakov.]
@@ -882,7 +882,7 @@ Sarah: Yeah, I’m a bitch alright. OK, let’s blow this joint.
 
 [She goes and Lily and the other follow.]
 
-Ken: Hold on, hold on. Well played, and frankly, I am miserable here.
+Ken: Hold on, hold on. Well played, Ma’am and frankly, I am miserable here.
 I wish there was a way you could help me.
 
 Sarah: Tell you what, Ken? Why not come to the diner, and I’ll pay for your
@@ -916,8 +916,8 @@ Lily: Wow, that’s great! Say, can I be Anne now?
 
 Sarah: Lily Anne O’Connor? I guess.
 
-+++: Hold it! “Lily” in Hebrew is “Susan” or “Suzanne”, so you could be Lily
-Suzanne O’Connor.
++++: Hold it! The Hebrew equivalent of “Lily” is “Susan” or “Suzanne”, so you
+could be Lily Suzanne O’Connor.
 
 Lily: Wow! Awesome.
 
@@ -960,7 +960,7 @@ and also a teacher at the high school.
 
 Willow: Well, yes, but do you know more than that?
 
-Deborah: Actually, I do: you’re a witch! You help fight demons, and daddy’s
+Deborah: Actually, I do: you’re a witch! You help fight demons. And daddy’s
 a warlock!
 
 Willow: Yes, Deborah, you are right. We tried to hide it from you, but I
@@ -994,7 +994,7 @@ Deborah: I think I’ll have
 
 Willow: [Brings the doll] Here you go.
 
-Deborah: Thanks, mum.
+Deborah: Thanks, mummy.
 
 Willow: You're welcome, munchkin. Listen, as you know, I have powerful and
 real magic and I’ll do my best to make sure that no harm will ever come to
