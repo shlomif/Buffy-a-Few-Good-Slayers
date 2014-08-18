@@ -72,9 +72,9 @@ juggle between various priorities:
 
 =head4 Rebecca “Becky” Shepherd
 
-One of the protagonist is a high school freshman wannabe-slayer called Rebecca
-(or “Becky” for short) who is a Maternal Jewess and being a JAP is part of her
-image.
+One of the protagonists is a high school freshman wannabe-slayer called Rebecca
+(or “Becky” for short) who is a Maternal Jewess and being a JAP (=
+Jewish American Princess) is part of her image.
 
 The tagline surrounding her is "You've got a lot of potential."
 
@@ -88,6 +88,11 @@ And certainly isn't when the film ends and she saves the day several times.
 
 =head2 NOTES
 
+    * The vampire who duplicates himself.
+    ** "I was a mad scientist, but I was angry, they called me the angry
+    scientist."
+    ** Operation "cat-in-the-sack".
+    ** Hebrew equivalent to http://en.wikipedia.org/wiki/Pig_in_a_poke
     * Buffy, Faith, and Willow discuss getting a dog.
     ** "I'm a cat person".
     ** "Ceiling cat is watching your dog pee"
