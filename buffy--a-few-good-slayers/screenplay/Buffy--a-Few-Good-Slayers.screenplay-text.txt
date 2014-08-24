@@ -280,7 +280,7 @@ Abigail: I’m Abigail and I’m a witch.
 
 Ronnie: Ronnie, watcher.
 
-Becky: Nice to meet the three of you, I’m Becky.
+Becky: Nice to meet the three of you, I’m Becky, Slayer wannabe.
 
 [They all shake hands.]
 
@@ -1240,6 +1240,29 @@ General, your men can come now. And bring a doctor for Buffy - she fainted.
 vehicles, soldiers, and helicopters, with muffled cries of “Hail Buffy!”.]
 
 <!-- / summoning_the_benevolent_spirit -->
+
+</s>
+
+<s id="becky_after_the_battle" title="Becky after the battle">
+
+Becky: OK, yeah! We saved Sunnydale and the world at large, we nearly got
+ourselves killed several times, now I think I’ll just go to my apartment, have
+a nice warm bath, and brag about that… hmmm… [she closes her eyes].
+
+[Roger rushes there and stops.]
+
+Roger: Hey Beck, you were great today!
+
+Becky: [Opens her eyes wide] On second thought.
+
+[Becky turns to face Roger, runs to him and French kisses him for
+many seconds. There are many claps and whistles from the people around
+and the Scooby Gangers either hug affectionately or shed tears.]
+
+Becky: [Let’s go.] Ahmm… Prof. Giles, do you think that we can hold the prom
+after all… I really feel like I could use some dancing.
+
+[TODO: FILL_IN]
 
 </s>
 

@@ -7,10 +7,18 @@ use utf8;
 
 use Shlomif::Screenplays::EPUB;
 
-my $obj = Shlomif::Screenplays::EPUB->new;
+my $gfx = 'Buffy-A-Few-Good-Slayers-Logo--take1.svg.png';
+my $obj = Shlomif::Screenplays::EPUB->new(
+    {
+        images =>
+        {
+            $gfx => "images/$gfx",
+        },
+    }
+);
+
 $obj->run;
 
-my $gfx = $obj->gfx;
 my $out_fn = $obj->out_fn;
 my $target_dir = $obj->target_dir;
 
