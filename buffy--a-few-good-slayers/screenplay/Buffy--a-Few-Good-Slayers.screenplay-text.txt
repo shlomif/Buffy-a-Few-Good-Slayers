@@ -764,8 +764,8 @@ crisis on our hand, and we need to consult you.
 Rindolf: Indeed, but many elements or trends I describe in my stories have a
 tendency to materialise after a while in one form or another.
 
-+++: This is despite the fact that they may have appeared unrealistic to some people
-who read them at the time.
++++: This is despite the fact that they may have appeared unrealistic to some
+people who read them at the time.
 
 Becky: OK, there’s something we need to admit: The show Sarah the Vampire
 Slayer, actually has a huge grain of truth to it: there are actually real
@@ -795,7 +795,8 @@ Rindolf: Well, what do you suggest that we do? Is it my fault?
 Buffy: No, it likely isn´t. Just stick in there.
 
 Rindolf: It’s interesting that you say that <i>Sarah the Vampire Slayer</i>
-was partly ingrained in truth. I recall being so in love with Natalie Portman
+was partly ingrained in truth. I recall being so in love with
+<a href="http://en.wikipedia.org/wiki/Natalie_Portman">Natalie Portman</a>
 who was the Alpha Female during the haydays of Web 1.0, and a bit
 after that, despite her being underage.
 
