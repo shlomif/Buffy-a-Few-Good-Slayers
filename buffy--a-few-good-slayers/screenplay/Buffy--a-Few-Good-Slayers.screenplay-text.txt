@@ -1253,12 +1253,105 @@ SMG: Nah! I’m Sarah Michelle Gellar. I’m the actress who played her.
 Buffy: My… kindred… spirit! [She faints into Xander’s arms.]
 
 SMG: OK, we have no time to lose. [Presses something on her smartphone.]
-General, your men can come now. And bring a doctor for Buffy - she fainted.
+OK, General, your men can come now. And bring a doctor for Buffy - she fainted.
 
 [After a short while, there are many noises in the distance of U.S. Army
 vehicles, soldiers, and helicopters, with muffled cries of “Hail Buffy!”.]
 
 <!-- / summoning_the_benevolent_spirit -->
+
+</s>
+
+<s id="the_battle" title="The Battle with the Pseudo-Vampires">
+
+<s id="the_battle__killing_the_PVs" title="Killing the Pseudo-Vampires">
+
+[ General Thompson and his helpers have a command vehicle outside controlling
+the battle. ]
+
+General Thompson: OK, men, prepare for phase 1. There are around one hundred
+thousand targets around. Deploy the robots, and be careful.
+
+[The soldiers deploy the robots who attack and kill the pseudo-vampires.]
+
+Pseudo-vampires: Let's go up.
+
++++: Let's not go up.
+
++++: Let's get down. [Gets killed by an arrow.]
+
++++: Let's not get down. [Runs away.]
+
+[The pseudo vampires all went to the outside.]
+
+General Thompson: OK, now let's get them out of town. Prepare for Phase 2.
+
+Voices from the radio: Affirmativative sir.
+
+[Buffy wakes up.]
+
+Buffy: Oh, ow, ow, ow. [Looks at SMG] Sarah! [Sees the command vehicle] What’s
+going on there?
+
+SMG: Fourth division of the U.S. Army - received basic training in slaying,
+and now they are hopefully going to kick the ass of these pseudo-vampires.
+
+Buffy: Really? I wasn’t that the U.S. Army trained in slaying?
+
+Soldier: Yes, well, we can keep secrets better than you.
+
+[The soldiers are scaring the Pseudo-Vampires into the field outside Sunnydale,
+while still shouting “Hail Buffy”.]
+
+General Thompson: Excellent men, things are going according to plan. Now,
+deploy the helicopters for what is hopefully the last phase.
+
+[The Helicopters fly over the PVs and spread oil across.]
+
+Pseudo-vampires: om num num… olive oil.
+
++++: Wait! It's a trap.
+
++++: It’s not a trap.
+
+[ A different helicopter approaches and a soldier lights a flare using a
+match and drops it on the Pseudo-Vampires. They cry as they become dust.
+]
+
+General Thompson: Well done, men. Mission accomplished.
+
+<!-- / the_battle__killing_the_PVs -->
+
+</s>
+
+<s id="the_battle__fair_match" title="A Fair Match">
+
+[ The soldier cheer and cry “Hail Buffy”. The helicopter arrives and the
+soldier who lit the flare approaches Buffy .]
+
+Helicopter soldier: Hail Buffy! Ms. Summers: I think we gave them a fair match.
+
+[He drops the match that was used to light the flare on Buffy’s open palm.
+
+She picks up the match with her other hand and looks at it. It looks worn out
+and awful.]
+
+Buffy: Who says it’s fair?
+
+[<a href="http://www.youtube.com/watch?v=8Z9Ismh1elM">Last Action Hero →
+Hamlet scene</a> reference.
+
+Buffy and everone laughs and throws away the match.
+]
+
+General Thompson: Hail Buffy! We have no casualties and the damage to the
+property is minimal.
+
+<!-- / the_battle__fair_match -->
+
+</s>
+
+<!-- / the_battle -->
 
 </s>
 
