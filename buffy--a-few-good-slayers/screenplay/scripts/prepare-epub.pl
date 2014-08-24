@@ -19,9 +19,6 @@ my $obj = Shlomif::Screenplays::EPUB->new(
 
 $obj->run;
 
-my $out_fn = $obj->out_fn;
-my $target_dir = $obj->target_dir;
-
 {
     my $epub_basename = 'Buffy--A-Few-Good-Slayers';
     $obj->epub_basename($epub_basename);
