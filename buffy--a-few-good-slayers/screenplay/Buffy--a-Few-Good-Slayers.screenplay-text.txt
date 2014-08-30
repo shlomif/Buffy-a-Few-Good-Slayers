@@ -964,15 +964,16 @@ Lily: Wow! Awesome.
 
 <s id="rindolf_about_SaVS_freenode_2" title="Rindolf about Sarah the Vampire Slayer">
 
-Rindolf: Yes, one thing I liked is that the characters SaVS were both
+Rindolf: Yes, one thing I liked is that the characters in SaVS were both
 competent and able, and yet not socially or sexually inept, which I felt was
 a long-term false dichotomy. I feel it’s a shame that Joss Whedon and
-Nat Portman did not get an Emmy for that, even though they were nominated.
+Nat Portman did not get an Emmy for that, even though they were both
+nominated for that.
 
 +++: So how come it's based on your life?
 
 Buffy: Well, I originally told Beni, an Israeli fellow who was one of the
-show’s creators (who was a really good
+show’s creators (and who was a really good
 initial student of us) about my life as a slayer, and that I have a feeling
 that I have an alter ego / kindred spirit called Sarah who is a liberal
 Jewish girl who was a major much coveted “Alpha Female” (as you put it)
@@ -1043,7 +1044,7 @@ guess we should not have. We should have been more honest.
 
 Deborah: That’s quite alright, mummy. See, my friend told me his father who
 is a Philosophy professor told him that honesty is an active process, and
-that we are always more dishonest in the past. I forgive you.
+that honest people were always more dishonest in the past. I forgive you.
 
 +++: Mum, will I be a witch?
 
@@ -1113,10 +1114,10 @@ Leagues Under the Sea</a> as a child, and I ended up memorising the English
 translation and now the French original, because I liked it so much.
 
 +++: Anyway, Captain Nemo there, thinks he’s a nobody, which is what “Nemo”
-means in Latin, but he's not. Thing is: lots of people expressed interest
-in him due to his various unique qualities, and he kept thinking: “They are
-interested in tangential stuff, not in the real me. They don't know the
-real me.”
+means in Latin, but he's not. Thing is: lots of people expressed interest in
+him due to his various distinctive qualities, and he kept thinking: “They are
+interested in tangential stuff, not in the real me. They don't know the real
+me.”
 
 +++: And here's the thing: all these qualities are what make you who you
 are, and you should exploit them and be yourself.
@@ -1135,8 +1136,8 @@ crying.]
 and we agreed to pretend that I was also killed. So I grew up on the streets.
 
 +++: Then one day when I was 9, I took the bus to one of my city’s good
-neighbourhoods where I saw a young boy about my age about 90% the way out of
-a book.
+neighbourhoods where I saw a young boy about my age about 90% of the way out
+of a book.
 
 [Cut to the scene with the young faith and the young boy (= David).]
 
@@ -1299,7 +1300,7 @@ going on there?
 SMG: Fourth division of the U.S. Army - received basic training in slaying,
 and now they are hopefully going to kick the ass of these pseudo-vampires.
 
-Buffy: Really? I wasn’t that the U.S. Army trained in slaying?
+Buffy: Really? I wasn’t aware that the U.S. Army trained in slaying?
 
 Soldier: Yes, well, we can keep secrets better than you.
 
@@ -1318,7 +1319,8 @@ Pseudo-vampires: om num num… olive oil.
 +++: It’s not a trap.
 
 [ A different helicopter approaches and a soldier lights a flare using a
-match and drops it on the Pseudo-Vampires. They cry as they become dust.
+match and drops it on the Pseudo-Vampires. They cry as they all burst
+in flame and become dust.
 ]
 
 General Thompson: Well done, men. Mission accomplished.
@@ -1344,7 +1346,7 @@ Buffy: Who says it’s fair?
 [<a href="http://www.youtube.com/watch?v=8Z9Ismh1elM">Last Action Hero →
 Hamlet scene</a> reference.
 
-Buffy and everone laughs and throws away the match.
+Buffy laughs and throws away the match.
 ]
 
 General Thompson: Hail Buffy! We have no casualties and the damage to the
@@ -1356,7 +1358,9 @@ property is minimal.
 
 <s id="the_battle__dealing_with_bill" title="Dealing with Bill">
 
+Buffy: Sounds good.
 
++++: Wait a second
 <!-- / the_battle__dealing_with_bill -->
 
 </s>
@@ -1389,7 +1393,7 @@ since the calamity has gone, then… sure! Why not?
 
 Becky: Thank you! Thank you! Thank you! [She kisses Giles on the cheek.]
 
-Buffy: You… you… Becky… I knew you have a lot of potential.
+Buffy: You… you… Becky… I knew you had a lot of potential.
 
 <!-- / becky_after_the_battle -->
 
