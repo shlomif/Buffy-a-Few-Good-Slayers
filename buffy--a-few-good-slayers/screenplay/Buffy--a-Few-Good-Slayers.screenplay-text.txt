@@ -1483,21 +1483,19 @@ Becky: [Opens her eyes wide] On second thought.
 many seconds. There are many claps and whistles from the people around,
 and the Scooby Gangers either hug affectionately or shed tears.]
 
-Becky: [Lets go.] Ahmm… Prof. Giles, do you think that we could hold the prom
+Becky: [Lets go.] Ahmm… Ms. Summers, do you think that we could hold the prom
 after all… I really feel like I could use some dancing.
 
-Giles: Well… we only have a week, so it’s going to be a tight schedule, but
+Buffy: Well… we only have a week, so it’s going to be a tight schedule, but
 since the calamity has gone, then… sure! Why not?
 
-Becky: Thank you! Thank you! Thank you! [She kisses Giles on the cheek.]
+Becky: Thank you! Thank you! Thank you! [She hugs Buffy.]
 
 Buffy: You… you… Becky… I knew you had a lot of potential.
 
 <!-- / becky_after_the_battle -->
 
 </s>
-
-<!-- / Buffy-a-Few-Good-Slayers (Main) -->
 
 </s>
 
