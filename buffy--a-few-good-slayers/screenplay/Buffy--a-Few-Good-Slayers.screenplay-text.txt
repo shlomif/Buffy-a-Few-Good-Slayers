@@ -1497,5 +1497,69 @@ Buffy: You… you… Becky… I knew you had a lot of potential.
 
 </s>
 
+<s id="faith_meeting_her_father" title="Faith Meeting Her Biological Father">
+
+[Faith sees a middle-aged man (Richard) who is moderately fat, and balding,
+and resembles her. ]
+
+Richard: Hello, Faith.
+
+Faith: Hi, who are you?
+
+General Thompson: Faith, this is your biological father, former
+U.S. Navy Cmdr. Richard Hoffer. We traced him, and DNA tests confirm that he
+is your father.
+
+Richard: Faith!… I worked as an Electrical and Mechanical technician in the
+Navy - fixing stuff that broke. I was good at it and took my job seriously,
+but was never much of a combat fighter.
+
++++: Anyway, during shore leaves I had the unfortunate habit of drinking and
+ending up waking the next morning with a hangover and a woman by my side,
+whom I always ended up buying breakfast and leaving my contact details.
+They were all happy to correspond with me, except one - your mother.
+
+Faith: Oh… [She starts crying.]
+
+Richard: Anyway, I ended up trying to trace the whereabouts of your mother,
+and was told she and her daughter were killed by criminals.
+
+Faith: My reported death was a cover story… [She Continues to cry.]
+
+Richard: Yes. Something died in me inside that moment, and I stopped drinking
+after that.
+
+Faith: I don’t drink either…
+
+Richard: Anyay, I heard you saved the world several times. I was told you
+are a slayer, who helps fight demons. I didn’t witness that first hand, but
+I heard enough stories so I believe that is the case.
+
++++: But I guess it’s true that the Apple sometimes completely supplants
+the tree.
+
+Faith: I’m sure you are a great warrior too. [She
+moves towards hugging Richard.]
+
+[They remain hugging for a while.]
+
+Faith: Dad, your belly is so soft.
+
+Richard: OK, now that’s behind us, I should admit that I ended up marrying
+a very nice lady (her name is Gabrielle) and we have two children — a boy
+and a girl. They are here and want to meet you.
+
+Faith: I’ll love that. I think mine are sound asleep now being relieved, but
+Xander, that’s how we refer to my husband, Alexander Harris, will be happy
+to tag alone and meet them. I think we can grab some burgers and icecream.
+
+Richard: Sure, I’d love that. Open commerce day…
+
+[Cut.]
+
+<!-- / faith_meeting_her_father -->
+
+</s>
+
 </s>
 
