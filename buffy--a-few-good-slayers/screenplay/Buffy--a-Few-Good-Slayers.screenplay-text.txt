@@ -1087,6 +1087,34 @@ Deborah: Night.
 
 </s>
 
+<s id="becky-about-studying" title="Becky reflecting about studying.">
+
+[Becky is approaching Chankey and Cliff who are sitting at a bench outside.]
+
+Becky: Oh my god! Oh my god! Demonology… martial arts… knife throwing…
+history of slaying… Latin… and — American History, English, and Drama.
+I need juice. [She flails and sits down.]
+
+Cliff: All in a day’s work, eh, Brony Girl?
+
+Becky: Yeah! I’m busted.
+
+Cliff: Well, at least all this fighting should make you horny.
+
+Becky: I know, I know but no arousal here, Cliff! All I want is to drink
+some juice, have a nice warm bath and spend time at the computer. And then
+maybe go for a walk.
+
+Chankey: Before you do all that… can you please help me with Physics? I’m
+having problems.
+
+Becky: Sure. [Takes a look.] OK, Chankey this is pretty bad, TODO.
+
+
+
+
+</s>
+
 <s id="faith-s-childhood" title="Faith reflects upon her childhood">
 
 [Becky and Chankey are sitting in the library, studying together, and
@@ -1212,7 +1240,7 @@ Becky: Faith, do you know what happened to that boy… David?
 
 Faith: Yes, I do: he found me on the Internet, a few years back, and we
 touched base. He’s happily married plus children and is an expert
-for Internet marketing and e-Commerce. He came to visit me in Sunnydale,
+of Internet marketing and e-Commerce. He came to visit me in Sunnydale,
 and brought his children with him, and mine got along very nicely with his.
 
 +++: He brought the copy of <i>The Three Musketeers</i> that I stole
