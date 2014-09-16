@@ -1087,6 +1087,44 @@ Deborah: Night.
 
 </s>
 
+<s id="knife-throwing-lesson" title="Knife Throwing Lesson">
+
+[Faith is teaching Becky and the rest of the class how to throw knives.]
+
+Faith: Becky, it’s nice that you hit the mark three times in succession,
+but you’re not always holding the knife correctly.
+
+Becky: OK, Ms. Harris. Can you show me how to do that again? [She prepares
+her phone.]
+
+Faith: OK, here goes.
+
+[Cut to the bullseye - three knives hit it quickly.]
+
+Faith: How´s that?
+
+Becky: That’s very nice, but as my mobile‘s video demonstrates, you didn’t
+hold the knife “correctly” (in quotes) once.
+
+Faith: Let me see. [She watches the video.] Oh crap.
+
++++: Becky, Becky… you have a lot of potential. You’re more than a pretty
+face.
+
+Becky: Heh, I knew that I have potential, but do you really think I have
+a pretty face?
+
+Faith: If my opinion as a straight, married, woman, matters, I think you do.
+
+Becky: Thanks, Ms. Harris.
+
+Faith: OK, class dismissed. Please try to practise at your free time, we’re
+going to have a test soon.
+
+[The students rise up and leave.]
+
+</s>
+
 <s id="becky-about-studying" title="Becky reflecting about studying.">
 
 [Becky is approaching Chankey and Cliff who are sitting at a bench outside.]
