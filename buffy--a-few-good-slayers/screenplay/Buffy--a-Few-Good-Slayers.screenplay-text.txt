@@ -1398,7 +1398,7 @@ General Thompson: Well done, men. Mission accomplished.
 
 <s id="the_battle__fair_match" title="A Fair Match">
 
-[ The soldier cheer and cry “Hail Buffy”. The helicopter arrives and the
+[ The soldiers cheer and cry “Hail Buffy”. The helicopter arrives and the
 soldier who lit the flare approaches Buffy .]
 
 Helicopter soldier: Hail Buffy! Ms. Summers: I think we gave them a fair match.
