@@ -750,6 +750,88 @@ Get back here as soon as you two can.
 
 </s>
 
+<s id="introducing_the_selinaverse" title="Introducing the Selinaverse">
+
+[The Scooby Gang (minus Xander and Oz), Becky, Cliff, Chankey, Martha,
+Daniel, are sitting at the library of Sunnydale High School.]
+
+Martha: So what you’re saying is that a vampire used this duplicator from
+the Q Continuum (like this Star Trek fiction shit) to create copies of himself,
+and because of his fucking vampire nature, they didn’t duplicate his freaking
+Psyche, and we got… them pseudo-Vampires?
+
+Buffy: Yes, Martha, that’s what we think happened.
+
+Martha: But this Star Trek’s shit ain’t real, right?
+
+Buffy: Not as far as we know, but most people probably think vampires and
+demons aren’t real either.
+
+[Xander and Oz enter through a portal.]
+
+Xander: Hey dudes and dudettes. We’re back - let's hope the duplicator is
+safe there.
+
+Buffy, Faith, Willow: Hi, Xand! Hi Oz!
+
+Becky: Listen, all of this reminds me of that guy from Freenode - Shlomi Fish…
+
+Other people: who?
+
+Becky: [more slowly] Shlomi Fish - he is an Israeli writer and software
+developer. He goes by the name of “Rindolf” on
+<a href="http://www.freenode.net/">Freenode</a>, because it’s easier for
+many non-Hebrew speakers to fathom.
+
++++: Anyway, he really likes both <i>Sarah the Vampire Slayer</i> and
+“Star Trek: The Next Generation/Deep Space Nine” and created a world crossing
+them which he called the
+<a href="http://buffyfanfiction.wikia.com/wiki/Selinaverse">Selinaverse</a>
+which crosses them both and where Star Trek is real to a large extent.
+He wrote some stories featuring them.
+
+Buffy: Very interesting, maybe we should investigate this. Xander, you handle it.
+
+Xander: Sure, Becky, we’ll interrogate this Shlomi-slash-Rindolf person in
+the cutting edge way of talking with him on IRC.
+
+Martha: Yes, this is some motherfuckin’ crazy-ass shit.
+
++++: OK, sorry, please brief me about any developments - this is some scary
+shit, but I’ve got a morning shift’s tomorrow in my day job.
+
+Daniel: Which is?
+
+Martha: Oh! I’m a part-time secretary and receptionist for an architects’
+office.
+
+Daniel: Do you also use such profane language there?
+
+Martha: Oh no, when I’m there I’m always [in a different tone] “Hello there,
+sir! Please let me know if you need anything. You’ll find entertainment and
+we can always chat a little while you are waiting.” and all this shit, but
+when I deal with vampires and these shitty pseudo-Vampires, I’m much more at
+my hood elements.
+
+Daniel: I see - are you single by any chance?
+
+Martha: Yes, Jake and I are just friends and a team, and I’ve only moved
+here a few weeks ago.
+
+Daniel: Ah, I see. How about a date then?
+
+Martha: Sure, ah…
+
+Daniel: Daniel! Buffy, Faith, and Willow here also fixed me on a date
+with a friend of Buffy’s called Rachel. I’ll have to see which one of
+you I like more.
+
+Martha: Oooh, competition baby. Daniel, do you want to split a cab?
+
+Daniel: Yes, I’d like that.
+
+</s>
+
 <s id="talk_with_rindolf_on_freenode" title="Talk with “rindolf” on IRC.">
 
 [Becky, Xander, Cliff, and Chankey are all sitting next to their own
