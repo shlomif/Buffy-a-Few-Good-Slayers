@@ -1,4 +1,4 @@
-<s id="Buffy-a-Few-Good-Slayers" title="Buffy: a Few Good Slayers">
+<s id="Buffy-a-Few-Good-Slayers" lang="en" title="Buffy: a Few Good Slayers">
 
 <s id="about" title="About this screenplay">
 
