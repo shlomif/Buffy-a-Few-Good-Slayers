@@ -1449,8 +1449,8 @@ Giles: [Reciting the summoning spell.] FILL IN.
 
 [A gateway opens and Sarah Michelle Gellar (“SMG”) wearing a T-shirt with
 a poster of the show Buffy the Vampire Slayer, a “#buffy” hash-tag and
-an <a href="http://twitter.com/RealSMG">@RealSMG</a> Twitter ID, as well as
-shorts, steps through.]
+an <a href="https://twitter.com/SarahMGellar">@SarahMGellar</a> Twitter ID,
+as well as shorts, steps through.]
 
 Giles, Willow: Buffy?
 
