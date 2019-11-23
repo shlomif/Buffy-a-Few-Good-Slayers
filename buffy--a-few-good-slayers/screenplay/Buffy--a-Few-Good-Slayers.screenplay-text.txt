@@ -1441,6 +1441,21 @@ Becky and Chankey: Bye Mr. and Mrs. Harris!
 
 </s>
 
+<s id="becky_trying_to_reach_her_brother" title="Becky trying to reach her brother">
+
+[Becky tries to call her brother on her smartphone.]
+
+Becky: oh damn it, why doesn't he answer?
+
+Chankey: maybe… maybe the time has got to be right?
+
+Becky: maybe… hey Mr. Giles: can you perhaps try to summon a benevolent spirit?
+
+Giles: [thinks for a moment] I guess we can try that - our situation is
+quite desparate as it is. OK, let's try.
+
+</s>
+
 <s id="summoning_the_benevolent_spirit" title="Summoning the benevolent spirit">
 
 [Giles, Buffy, Faith, Willow, etc. are standing in a row.]
