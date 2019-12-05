@@ -7,7 +7,7 @@
 Tagline: I learned more from my students than I have from my teachers.
 
 Note: This screenplay was written by
-<a href="http://www.shlomifish.org/">Shlomi Fish</a>, and
+<a href="https://www.shlomifish.org/">Shlomi Fish</a>, and
 is original artwork.]
 
 
@@ -1452,7 +1452,7 @@ Chankey: maybe… maybe the time has got to be right?
 Becky: maybe… hey Mr. Giles: can you perhaps try to summon a benevolent spirit?
 
 Giles: [thinks for a moment] I guess we can try that - our situation is
-quite desparate as it is. OK, let's try.
+quite desperate as it is. OK, let's try.
 
 </s>
 
