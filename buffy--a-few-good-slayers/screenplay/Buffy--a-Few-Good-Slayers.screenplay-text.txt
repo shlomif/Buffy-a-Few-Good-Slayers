@@ -74,7 +74,7 @@ Chankey: [in an English accent] Smashing!
 
 Becky: Chankey, is it? Are you British?
 
-Chankey: Yes, Miss Shepherd.
+Chankey: Yes, Ms. Shepherd.
 
 Becky: “Becky” please.
 
@@ -1219,7 +1219,7 @@ hold the knife “correctly” (in quotes) once.
 
 Faith: Let me see. [She watches the video.] Oh crap.
 
-+++: Becky, Becky… you have a lot of potential. You’re more than a pretty
++++: Becky, Becky… you have a lot of potential. You’re more than just a pretty
 face.
 
 Becky: Heh, I knew that I have potential, but do you really think I have
@@ -1267,7 +1267,7 @@ Becky: What have you memorised for example?
 
 Chankey: Well, when I studied for history/etc. tests, I memorised a lot of
 material, which I promptly forgot, because I didn’t care enough to remember
-it. However, I memorised quite a few texts are useful for being a watcher
+it. However, I memorised quite a few texts which are useful for being a watcher
 and keep them in my resident memory. These include the grammar rules and
 dictionaries of various ancient and contemporary languages, and the holy texts
 and mystical materials of various religions
