@@ -1448,6 +1448,25 @@ Becky and Chankey: Bye Mr. and Mrs. Harris!
 
 </s>
 
+<s id="prospects-of-fighting-the-pseudo-vampires" title="Prospects of fighting the Pseudo-Vampires">
+
+[Becky, Cliff, and Chankey are sitting in the library, studying together, and
+Faith is approaching.]
+
+Becky: Hey, Faith! Are there any news with respect to handling the Pseudo-vampires
+crisis?
+
+Faith: Hi Becky! Well we have some plans and The First told us we'll likely
+be lucky enough.
+
+Becky: Isn't The First being Evil?
+
+Faith: Not anymore - during one divination we made him convert to the good side.
+He realised that being alone for milliards of years does not justify being frustrated
+for the rest.
+
+</s>
+
 <s id="becky_trying_to_reach_her_brother" title="Becky trying to reach her brother">
 
 [Becky tries to call her brother on her smartphone.]
