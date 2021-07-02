@@ -173,17 +173,17 @@ streets. At first, it seems that she has gone to “the dark side of the force�
 to quote Buffy, but she ends up preventing the mayor’s ascension in the
 last minute and saving the day.
 
-+++: Faith starts studying as a freshman in
-the local university, and joins forces with Buffy as a co-slayer. She maintains
-a relationship with Mr.
-<a href="http://buffy.wikia.com/wiki/Alexander_Harris">Alexander
-“Xander” Harris</a> that grows from being primarily sexual, to friendship, to
-deep love, and
-they remain faithful to each other to this very day. Pun not intended.
++++: Faith felt sorry for having had sex with <a href="http://buffy.wikia.com/wiki/Alexander_Harris">Mr. Alexander “Xander” Harris</a>
+as part of her "double agent" facade for saving Sunnydale, so she offers
+him to spend some days hanging out together as friends. Not only do they
+fall in love, but Xander is able to defeat her in martial arts fights.
 
-+++: With the encouragement of Buffy and Faith, Xander becomes more confident,
++++: With the encouragement of Buffy and Faith, hee becomes more confident,
 and eventually makes history by becoming the world’s first known male slayer,
 paving the road to future male slayers.
+
++++: The extended Scooby gang start studying in the local university in
+hope of becoming qualified teachers.
 
 +++: Meanwhile, Buffy and her long term friend and loved one,
 <a href="http://buffy.wikia.com/wiki/Angel">Angel</a> are able to convince
@@ -212,11 +212,10 @@ retired, passed the baton to me, and decided to run for mayor of Sunnydale. He
 ended up losing the election at first with a large margin, but didn’t give up
 and instead offered the newly elected mayor to help him as much as he could.
 Snyder proved to be extremely helpful and insightful, and in the second term,
-the previous Mayor didn’t run again, and instead supported Mr. Snyder
-as a candidate,
-who won it by a large margin. He is still Sunnydale’s mayor, and a good friend
-and supporter of the Scooby gang’s new role as educators and protectors of
-Sunnydale, and the world at large.
+the previous Mayor didn’t run again, and instead supported Mr. Snyder as a
+candidate, who won it by a large margin. He is still Sunnydale’s mayor, and a
+good friend and supporter of the Scooby gang’s new role as educators and
+protectors of Sunnydale, and the world at large.
 
 +++: What all this shows, is like this fine lady [showing
 <a href="http://mlp.wikia.com/wiki/Princess_Celestia">Princess Celestia</a> on
@@ -417,12 +416,14 @@ him.
 
 [ Chankey bursts out laughing. Cliff and Becky join him. ]
 
-Cliff: Well, I actually met her a few times including in a fight tournament
+Cliff: Well, I actually met her a few times, including in a fight tournament
 where she lost one of the first few rounds. She’s a good fighter, but not
 that good. Then she saw me fighting, and asked me if we can fight.
 
 Becky: Summer Glau asked <b>you</b> to fight <b>her</b>? Get out! I’m not
-worthy… I’m not worthy… I’m not worthy… Cliff, you’re a freaking wizard!
+worthy… I’m not worthy… I’m not worthy… [ <a href="https://www.youtube.com/watch?v=o5FT3IGXtAk">Reference: Wayne's World</a> ]
+
++++: Cliff, you’re a freaking wizard!
 
 Cliff: I’m a freaking witch! Anyway, I won all three rounds and she told me
 it was a good fight.
@@ -582,7 +583,7 @@ enters the restaurant. ]
 
 Girl: Help! Vampires! Four identical ones! We need a slayer.
 
-[Martha is a black slayer in her 20s and her friend Jake, who is white, is a
+[Martha is a black slayer in her 20s and her friend Jake, who is white, and is a
 warlock.]
 
 Martha: We’ll handle it. [Rises up.]
@@ -610,7 +611,7 @@ made to forget, but cannot.
 Willow: Really, which one?
 
 Daniel: I saw a web news item the other day about
-<a href="http://en.wikipedia.org/wiki/Emma_Watson">Emma Watson</a> having
+<a href="https://www.shlomifish.org/humour/bits/facts/Emma-Watson/">Emma Watson</a> having
 dropped her smartphone into her soup, and I don’t understand what the big deal
 is, but I cannot forget it.
 
@@ -875,12 +876,12 @@ Becky: Yes, I guess. Anyway, thing is - we ran into a certain artefact from
 world</a> which you describe, namely a duplicator that is the property
 of the Q Continuum.
 
-Rindolf: How strange.
+Rindolf: How strange!
 
 Becky: Yes, and it was used to duplicate a real vampire into a large number
 of pseudo-vampires.
 
-Rindolf: Wow! This seems like a huge crisis.
+Rindolf: Wow! This sounds like a huge crisis.
 
 Buffy: It sure is.
 
@@ -910,11 +911,14 @@ Rindolf: Anyway, these are my two favourite parts from the show:
 
 <s id="sarah_the_vamp_slayer__date_with_the_yeshivah_pupil" title="Sarah the Vampire Slayer - Date with the Yeshivah Pupil">
 
-[<i>Sarah the Vampire Slayer</i> featuring Natalie Portman as
+[
+
+<i>Sarah the Vampire Slayer</i> featuring Natalie Portman as
 Sarah Anne Eisenman, an Ethnic, Reform, Jewish slayer.
 
 Sarah is sitting in a restaurant on a date with Yaakov, a Yeshivah Pupil
 from a local <a href="http://en.wikipedia.org/wiki/Chabad">Chabad</a> Yeshivah.
+
 ]
 
 Sarah: So how's life in the Yeshivah?
@@ -931,7 +935,7 @@ Chabad?
 Yaakov: Oh that. First of all, it’s a kinda small minority of us, and secondly
 it’s kinda rooted in the belief that at any time, every Jew must consider
 themselves
-<a href="http://www.shlomifish.org/philosophy/the-eternal-jew/the-eternal-jew/change_the_world.html">the
+<a href="https://www.shlomifish.org/philosophy/the-eternal-jew/indiv-nodes/change_the_world.xhtml">the
 Messiah</a> and behave accordingly, which will eventually bring the Jewish
 people and the world at large to
 <a href="http://en.wikipedia.org/wiki/Salvation">salvation</a> and prosperity.
