@@ -1520,7 +1520,7 @@ Faith: anyway, many of my lovers came for more helpings, and surprisingly
 they never coincided. And there was passion alright. Despite the fact that
 I did that only to compensate for my mother.
 
-+++: but there was some thing strange: I used to have these dreams where I
++++: but there was something strange: I used to have these dreams where I
 had sex with one or more lover <b>and</b> one or more characters from
 TV shows, films, or books. And I never had a ménage in my life, and you
 know how dreams during which you have sex are supposed to be good dreams…
@@ -1552,7 +1552,6 @@ he agreed and won too. (He likely thought it was weird that two frail girls
 asked him that, heh.)
 
 +++: So we had to rethink our prejudice against men being slayers…
-
 
 </s>
 
@@ -1650,9 +1649,12 @@ Pseudo-vampires: om num num… olive oil.
 
 +++: It’s not a trap.
 
-[ A different helicopter approaches and a soldier lights a flare using a
+[
+
+A different helicopter approaches and a soldier lights a flare using a
 match and drops it on the Pseudo-Vampires. They cry as they all burst
 in flame and become dust.
+
 ]
 
 General Thompson: Well done, men. Mission accomplished.
@@ -1831,8 +1833,12 @@ Buffy: You… you… Becky… I knew you had a lot of potential.
 
 <s id="faith_meeting_her_father" title="Faith Meeting Her Biological Father">
 
-[Faith sees a middle-aged man (Richard) who is moderately fat, and balding,
-and resembles her. ]
+[
+
+Faith sees a middle-aged man (Richard) who is moderately fat, and balding,
+and resembles her.
+
+]
 
 Richard: Hello, Faith.
 
@@ -1896,8 +1902,12 @@ Richard: Sure, that’ll be great. Open commerce day…
 
 <s id="mission_from_the_Q_continuum" title="Mission from the Q Continuum">
 
-[ A gateway opens and Q (wearing a Star Fleet uniform) and Deborah step
-through.]
+[
+
+A gateway opens and Q (wearing a Star Fleet uniform) and Deborah step
+through.
+
+]
 
 Buffy: Why hello there. Mr. Q, I presume.
 
