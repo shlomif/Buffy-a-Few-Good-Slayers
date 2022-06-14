@@ -1061,9 +1061,9 @@ Lily: Wow! Awesome.
 
 </s>
 
-<s id="rindolf_about_SaVS_freenode_2" title="Rindolf about Sarah the Vampire Slayer">
+<s id="rindolf_about_StVS_freenode_2" title="Rindolf about Sarah the Vampire Slayer">
 
-Rindolf: Yes, one thing I liked is that the characters in SaVS were both
+Rindolf: Yes, one thing I liked is that the characters in StVS were both
 competent and able, and yet not socially or sexually inept, which I felt was
 a long-term false dichotomy. I feel it’s a shame that Joss Whedon and
 Nat Portman did not get an Emmy for that, even though they were both
@@ -1127,7 +1127,7 @@ Cliff: Heh, you don’t want to see the real magic that I’m capable of.
 
 Willow: Or mine or Oz’s.
 
-<!-- / rindolf_about_SaVS_freenode_2 -->
+<!-- / rindolf_about_StVS_freenode_2 -->
 
 </s>
 
