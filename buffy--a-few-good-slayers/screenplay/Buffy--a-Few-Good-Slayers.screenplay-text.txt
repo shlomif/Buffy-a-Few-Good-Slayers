@@ -1066,8 +1066,8 @@ Lily: Wow! Awesome.
 Rindolf: Yes, one thing I liked is that the characters in StVS were both
 competent and able, and yet not socially or sexually inept, which I felt was
 a long-term false dichotomy. I feel it’s a shame that Joss Whedon and
-Nat Portman did not get an Emmy for that, even though they were both
-nominated for that.
+Nat Portman did not get an Emmy for that show, even though they were both
+nominated for it.
 
 +++: So how come it's based on your life?
 
@@ -1103,7 +1103,7 @@ Rindolf: Heh, sounds great.
 Xander: Well, let’s get back to business - apparently, we found a duplicator
 that is the property of the Q Continuum, and it was able to create a hundred
 copies of a precious diamond gold ring. Furthermore, apparently, it was
-used to duplicate a vampire into a large number of psycheless-pseudo-vampires
+used to duplicate a vampire into a large number of psyche-less pseudo-vampires
 - we captured about four of them but there may be many more.
 
 +++: What can you tell us about the Q Continuum in the Selinaverse?
@@ -1133,7 +1133,7 @@ Willow: Or mine or Oz’s.
 
 <s id="willow_putting_her_daughter_to_bed" title="Willow Putting Her Daughter to Bed">
 
-[ Willow is sitting next to the computer reading. She is kinda worried. ]
+[ Willow is sitting next to the computer reading. She is rather worried. ]
 
 Deborah: [= Willow’s daughter, voice from the other room.] Mummy, can you come
 and read me a bed-time story?
