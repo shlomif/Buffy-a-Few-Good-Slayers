@@ -844,6 +844,8 @@ Daniel: Yes, I’d like that.
 
 </s>
 
+<s id="talk_with_rindolf_wrapper" title="Talk session with “rindolf” on IRC. (Wrapper)">
+
 <s id="talk_with_rindolf_on_freenode" title="Talk with “rindolf” on IRC.">
 
 [Becky, Xander, Cliff, and Chankey are all sitting next to their own
@@ -1128,6 +1130,10 @@ Cliff: Heh, you don’t want to see the real magic that I’m capable of.
 Willow: Or mine or Oz’s.
 
 <!-- / rindolf_about_StVS_freenode_2 -->
+
+</s>
+
+<!-- / talk_with_rindolf_wrapper -->
 
 </s>
 
