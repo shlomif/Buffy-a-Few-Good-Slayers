@@ -921,6 +921,8 @@ Sarah Anne Eisenman, an Ethnic, Reform, Jewish slayer.
 Sarah is sitting in a restaurant on a date with Yaakov, a Yeshivah Pupil
 from a local <a href="http://en.wikipedia.org/wiki/Chabad">Chabad</a> Yeshivah.
 
+( Builds upon <a href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/indiv-nodes/who_is_the_messiah.xhtml">this scene from <i>Summerschool at the NSA</i></a>. )
+
 ]
 
 Sarah: So how's life in the Yeshivah?
@@ -994,8 +996,14 @@ Restaurant Girl: Get a room!
 
 <s id="sarah_the_vamp_slayer__not_a_nobody" title="Sarah the Vampire Slayer - Not a Nobody">
 
-[<i>Sarah the Vampire Slayer</i> featuring Natalie Portman as
-Sarah Anne Eisenman, an Ethnic, Reform, Jewish slayer.]
+[
+
+<i>Sarah the Vampire Slayer</i> featuring Natalie Portman as
+Sarah Anne Eisenman, an Ethnic, Reform, Jewish slayer.
+
+( Builds upon <a href="https://buffy.fandom.com/wiki/Anne_(episode)">the BtVS’ “Anne” episode</a>. )
+
+]
 
 Ken: [to Lily] Who are you?
 
