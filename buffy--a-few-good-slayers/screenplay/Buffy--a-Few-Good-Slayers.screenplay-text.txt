@@ -1704,7 +1704,7 @@ property is minimal.
 
 </s>
 
-<s id="the_battle__dealing_with_bill" title="Dealing with Bill">
+<s id="the_battle__dealing_with_bill" title="Dealing with Mark">
 
 Buffy: Sounds good.
 
