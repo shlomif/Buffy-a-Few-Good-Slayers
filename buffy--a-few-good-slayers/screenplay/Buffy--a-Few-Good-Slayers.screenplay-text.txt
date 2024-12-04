@@ -1251,7 +1251,7 @@ Faith: Let me see. [She watches the video.] Oh crap.
 +++: Becky, Becky… you have a lot of potential. You’re more than just a pretty
 face.
 
-Becky: Heh, I knew that I have potential, but do you really think I have
+Becky: Heh, I already knew that I have potential, but do you really think I have
 a pretty face?
 
 Faith: If my opinion as a straight, married, woman, matters, I think you do.
@@ -1267,7 +1267,7 @@ going to have a test soon.
 
 <s id="becky-about-studying" title="Becky reflecting about studying.">
 
-[Becky is approaching Chankey and Cliff who are sitting at a bench outside.]
+[Becky is approaching Chankey and Cliff who are sitting on a bench outside, by a table.]
 
 Becky: Oh my god! Oh my god! Demonology… martial arts… knife throwing…
 history of slaying… Latin… and — American History, English, and Drama.
@@ -1286,7 +1286,7 @@ maybe go for a walk.
 Chankey: Before you do all that… can you please help me with Physics? I’m
 having problems.
 
-Becky: Sure. [Takes a look.] OK, Chankey this is pretty bad. You’re far too
+Becky: Sure. [Takes a look.] OK, Chankey, this is pretty bad! You’re far too
 sloppy.
 
 Chankey: Yes, I find dealing with mathematics a big problem. Memorising things
@@ -1697,7 +1697,7 @@ Hamlet scene</a> reference.
 Buffy laughs and throws away the match.
 ]
 
-General Thompson: Hail Buffy! We have no casualties and the damage to the
+General Thompson: Hail Buffy! We have no casualties, and the damage to the
 property is minimal.
 
 <!-- / the_battle__fair_match -->
@@ -1747,7 +1747,7 @@ General Thompson: Oh! Mark Raymond here used to be a contractor for us back
 when the Q Continuum of the Selinaverse expanded into our own world, which
 we’ll now call the
 <a href="http://buffyfanfiction.wikia.com/wiki/Beckyverse">Beckyverse</a> [cut
-to Becky - she is blushing] and experimented with a duplicator that they
+to Becky - she is blushing], and experimented with a duplicator that they
 had given us when he became a vampire, stole it, and caused all this trouble.
 
 Willow: So we’ll have to restore his soul, and then convert him back into
